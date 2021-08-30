@@ -1,3 +1,5 @@
+package com.ytu.dc;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
