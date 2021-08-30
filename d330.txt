@@ -1,0 +1,2733 @@
+
+
+
+
+
+
+
+
+DIGITAL CAMERA
+
+
+User's Manual
+
+
+
+
+For a complete guide to using your camera, see the Reference Manual (0 iv). To get the most from your camera, please be sure to read this User’s Manual thoroughly and keep it where it will be read by all who use the product.
+Symbols and Conventions
+To make it easier to find the information you need, the following symbols and conventions are used:
+
+
+
+
+Menu items, options, and messages displayed in the camera monitor are shown in bold.
+Camera Settings
+The explanations in this manual assume that default settings are used.
+
+
+
+
+ Package Contents
+Confirm that the package contains the following items:
+D3300 camera
+
+EN-EL14a rechargeable Li-ion battery (with terminal coVer)
+
+
+
+
+MH-24 battery charger (plug adapter supplied in countries or regions where required; shape depends on country of sale)
+
+
+AN-DC3 strap
+UC-E17 USB cable
+EG-CP14 audio/video cable
+
+ViewNX 2 CD-ROM
+User’s Manual (this booklet) Warranty
+
+Purchasers of the lens kit option should confirm that the package also includes a lens. Memory cards are sold separately (0 95). Cameras purchased in Japan display menus and messages in English and Japanese only; other languages are not supported. We apologize for any inconvenience this may cause.
+
+
+Follow these steps for a quick start with the D3300.
+1	Attach the camera strap (0 11).
+Attach the strap as shown. Repeat for the second eyelet.
+
+
+2	Charge the battery (0 11).
+
+
+3	Insert the battery and memory card (0 12).
+4	Attach a lens (0 13).
+
+5	Turn the camera on (0 14).
+
+
+
+
+6	Choose a language and set the camera clock (0 15).
+7	Frame the photograph (0 24).
+
+
+
+
+
+8	Press the shutter-release button halfway (0 24).
+
+
+
+
+
+9 Shoot (0 25).
+
+
+ The Reference Manual
+For more information on using your Nikon camera, download a pdf copy of the camera Reference Manual from the website listed below. The Reference Manual can be viewed using Adobe Reader or Adobe Acrobat Reader 5.0 or later.
+1	On your computer, launch a web browser and open the following site: http://downloadcenter.nikonimglib.com/
+2	Choose a language and download the Reference Manual.
+3	Double-click the downloaded file.
+
+
+
+Package Contents	i
+For Your Safety	viii
+Notices	xii
+Introduction	1
+Getting to Know the Camera	1
+The Camera Body	1
+The Mode Dial	4
+The I (E/#) Button	6
+The Viewfinder	7
+The Information Display	8
+First Steps	11
+“Point-and-Shoot” Modes (i and j) 	22
+Framing Photos in the Viewfinder	23
+Viewing Photographs	26
+Deleting Unwanted Pictures	28
+Framing Photos in the Monitor	30
+Viewing Photographs	34
+Deleting Unwanted Pictures	35
+Recording Movies	36
+Viewing Movies	41
+Deleting Unwanted Movies	43
+Guide Mode	44
+The Guide	44
+Guide Mode Menus	45
+Using the Guide	48
+Matching Settings to the Subject or Situation
+(Scene Mode)	50
+k Portrait	50
+l Landscape	50
+p Child	50
+m Sports	51
+n Close up	51
+o Night Portrait	51
+Special Effects	52
+% Night Vision	53
+S Super Vivid	53
+T Pop	53
+U Photo Illustration	53
+g Color Sketch	53
+' Toy Camera Effect	54
+( Miniature Effect	54
+3 Selective Color	54
+1	Silhouette	54
+2	High Key	54
+3	Low Key	55
+) HDR Painting	55
+I Easy Panorama	55
+Options Available in Live View	57
+I Easy Panorama	64
+P, S, A, and M Modes	68
+Mode P (Programmed Auto)	69
+Mode S (Shutter-Priority Auto)	69
+Mode A (Aperture-Priority Auto)	70
+Mode M (Manual)	71
+Exposure Compensation (P, S, A, M, % and
+I modes only)	73
+Camera Menus	75
+Menu Options	76
+Using Camera Menus	79
+ViewNX 2	82
+Installing ViewNX 2	82
+Using ViewNX 2	85
+Copy Pictures to the Computer	85
+View Pictures	87
+Technical Notes	89
+Compatible Lenses	89
+Other Accessories	91
+Approved Memory Cards.	95
+Caring for the Camera	96
+Storage	96
+Cleaning	96
+Caring for the Camera and Battery: Cautions	97
+Caring for the Camera	97
+Caring for the Battery	100
+Error Messages	102
+Specifications	106
+Battery Life	121
+
+ For Your Safety
+To prevent damage to your Nikon product or injury to yourself or to others, read the following safety precautions in their entirety before using this equipment. Keep these safety instructions where all those who use the product will read them.
+The consequences that could result from failure to observe the precautions listed in this section are indicated by the following symbol:
+
+
+❚❚ WARNINGS
+AKeep the sun out of the frame
+Keep the sun well out of the frame when shooting backlit subjects. Sunlight focused into the camera when the sun is in or close to the frame could cause a fire.
+ADo not look at the sun through the viewfinder
+Viewing the sun or other strong light source through the viewfinder could cause permanent visual impairment.
+AUsing the viewfinder diopter adjustment control
+When operating the viewfinder diopter adjustment control with your eye to the viewfinder, care should be taken not to put your finger in your eye accidentally.
+
+
+ATurn off immediately in the event of malfunction
+Should you notice smoke or an unusual smell coming from the equipment or AC adapter (available separately), unplug the AC adapter and remove the battery immediately, taking care to avoid burns.
+Continued operation could result in injury. After removing the battery, take the equipment to a Nikon- authorized service center for inspection.
+ADo not use in the presence of flammable gas
+Do not use electronic equipment in the presence of flammable gas, as this could result in explosion or fire.
+AKeep out of reach of children
+Failure to observe this precaution could result in injury. In addition, note that small parts constitute a choking hazard. Should a child swallow any part of this equipment, consult a physician immediately.
+
+ADo not disassemble
+Touching the product’s internal parts could result in injury. In the event of malfunction, the product should be repaired only by a qualified technician. Should the product break open as the result of a fall or other accident, remove the battery and/or AC adapter and then take the product to a Nikon-authorized service center for inspection.
+ADo not place the strap around the neck of an infant or child
+Placing the camera strap around the neck of an infant or child could result in strangulation.
+ADo not remain in contact with the camera, battery, or charger for extended periods while the devices are on or in use Parts of the device become hot.
+Leaving the device in direct contact with the skin for extended periods may result in low-temperature burns.
+ADo not leave the product where it will be exposed to extremely high temperatures, such as in an enclosed automobile or in direct sunlight
+Failure to observe this precaution could cause damage or fire.
+ADo not aim a flash at the operator of a motor vehicle
+Failure to observe this precaution could result in accidents.
+
+AObserve caution when using the flash
+•	Using the camera with the flash in close contact with the skin or other objects could cause burns.
+•	Using the flash close to the subject’s eyes could cause temporary visual impairment. The flash should be no less than one meter (3 ft 4 in.) from the subject. Particular care should be observed when photographing infants.
+AAvoid contact with liquid crystal
+Should the monitor break, care should be taken to avoid injury due to broken glass and to prevent the liquid crystal from the monitor touching the skin or entering the eyes or mouth.
+ADo not carry tripods with a lens or camera attached
+You could trip or accidentally strike others, resulting in injury.
+
+AObserve proper precautions when handling batteries
+Batteries may leak, overheat, rupture, or catch fire if improperly handled. Observe the following precautions when handling batteries for use in this product:
+•	Use only batteries approved for use in this equipment.
+•	Do not short or disassemble the battery.
+•	Do not expose the battery or the camera in which it is inserted to powerful physical shocks.
+•	Be sure the product is off before replacing the battery. If you are using an AC adapter, be sure it is unplugged.
+•	Do not attempt to insert the battery upside down or backwards.
+•	Do not expose the battery to flame or to excessive heat.
+•	Do not immerse in or expose to water.
+•	Replace the terminal cover when transporting the battery. Do not transport or store the battery with metal objects such as necklaces or hairpins.
+•	Batteries are prone to leakage when fully discharged. To avoid damage to the product, be sure to remove the battery when no charge remains.
+•	When the battery is not in use, attach the terminal cover and store in a cool, dry place.
+
+•	The battery may be hot immediately after use or when the product has been used on battery power for an extended period. Before removing the battery turn the camera off and allow the battery to cool.
+•	Discontinue use immediately should you notice any changes in the battery, such as discoloration or deformation.
+AObserve proper precautions when handling the charger
+•	Keep dry. Failure to observe this precaution could result in injury or product malfunction due to fire or electric shock.
+•	Do not short the charger terminals. Failure to observe this precaution could result in overheating and damage to the charger.
+•	Dust on or near the metal parts of the plug should be removed with a dry cloth. Continued use could result in fire.
+•	Do not go near the charger during thunderstorms. Failure to observe this precaution could result in electric shock.
+•	Do not handle the plug or charger with wet hands. Failure to observe this precaution could result in injury or product malfunction due to fire or electric shock.
+•	Do not use with travel converters or adapters designed to convert from one voltage to another or with DC- to-AC inverters. Failure to observe this precaution could damage the product or cause overheating or fire.
+
+AUse appropriate cables
+When connecting cables to the input and output jacks, use only the cables provided or sold by Nikon for the purpose to maintain compliance with product regulations.
+ACD-ROMs
+CD-ROMs containing software or manuals should not be played back on audio CD equipment. Playing CD- ROMs on an audio CD player could cause hearing loss or damage the equipment.
+
+AFollow the directions of airline and hospital personnel
+This camera transmits radio frequencies that could interfere with medical equipment or aircraft navigation. Disable the wireless network feature and remove all wireless accessories from the camera before boarding an aircraft, and turn the camera off during take off and landing. In medical facilities, follow staff instructions regarding the use of wireless devices.
+
+ Notices
+
+•	No part of the manuals included with this product may be reproduced, transmitted, transcribed, stored in a retrieval system, or translated into any language in any form, by any means, without Nikon’s prior written permission.
+•	Nikon reserves the right to change the appearance and specifications of the hardware and software described in these manuals at any time and without prior notice.
+Notice for Customers in Canada
+CAN ICES-3 B / NMB-3 B
+Notices for Customers in Europe
+
+
+
+This symbol indicates that electrical and electronic equipment is to be collected separately.
+The following apply only
+to users in European countries:
+•	This product is designated for separate collection at an appropriate collection point. Do not dispose of as household waste.
+•	Separate collection and recycling helps conserve natural resources and prevent negative consequences for human health and the environment that might result from incorrect disposal.
+•	For more information, contact the retailer or the local authorities in charge of waste management.
+
+•	Nikon will not be held liable for any damages resulting from the use of this product.
+•	While every effort has been made to ensure that the information in these manuals is accurate and complete, we would appreciate it were you to bring any errors or omissions to the attention of the Nikon representative in your area (address provided separately).
+
+
+
+
+
+
+
+
+
+This symbol on the battery indicates that the battery is to be collected separately.
+The following apply only to users in European countries:
+•	All batteries, whether marked with this symbol or not, are designated for separate collection at an appropriate collection point. Do not dispose of as household waste.
+•	For more information, contact the retailer or the local authorities in charge of waste management.
+
+Notices for Customers in the U.S.A.
+Federal Communications Commission (FCC) Radio Frequency Interference Statement
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC rules. These limits are
+
+designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
+•	Reorient or relocate the receiving antenna.
+•	Increase the separation between the equipment and receiver.
+•	Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+•	Consult the dealer or an experienced radio/television technician for help.
+
+CAUTIONS
+Modifications
+The FCC requires the user be notified that any changes or modifications made to this device that are not expressly approved by Nikon Corporation may void the user’s authority to operate the equipment.
+Interface Cables
+Use the interface cables sold or provided by Nikon for your equipment. Using other interface cables may exceed the limits of Class B Part 15 of the FCC rules.
+Notice for Customers in the State of California WARNING: Handling the cord on this product may expose you to lead, a chemical known to the State of California to cause birth defects or other reproductive harm. Wash hands after handling.
+Nikon Inc., 1300 Walt Whitman Road, Melville, New York 11747-3064, U.S.A. Tel.: 631-547-4200
+
+Notice Concerning Prohibition of Copying or Reproduction
+Note that simply being in possession of material that has been digitally copied or reproduced by means of a scanner, digital camera, or other device may be punishable by law.
+
+•	Items prohibited by law from being copied or reproduced
+Do not copy or reproduce paper money, coins, securities, government bonds, or local government bonds, even if such copies or reproductions are stamped “Sample.”
+The copying or reproduction of paper money, coins, or securities which are circulated in a foreign country is prohibited.
+Unless the prior permission of the government has been obtained, the copying or reproduction of unused postage stamps or post cards issued by the government is prohibited.
+The copying or reproduction of stamps issued by the government and of certified documents stipulated by law is prohibited.
+
+•	Cautions on certain copies and reproductions
+The government has issued cautions on copies or reproductions of securities issued by private companies (shares, bills, checks, gift certificates, etc.), commuter passes, or coupon tickets, except when a minimum of necessary copies are to be provided for business use by a company. Also, do not copy or reproduce passports issued by the government, licenses issued by public agencies and private groups, ID cards, and tickets, such as passes and meal coupons.
+•	Comply with copyright notices
+The copying or reproduction of copyrighted creative works such as books, music, paintings, woodcuts, prints, maps, drawings, movies, and photographs is governed by national and international copyright laws. Do not use this product for the purpose of making illegal copies or to infringe copyright laws.
+
+Disposing of Data Storage Devices
+Please note that deleting images or formatting memory cards or other data storage devices does not completely erase the original image data. Deleted files can sometimes be recovered from discarded storage devices using commercially available software, potentially resulting in the malicious use of personal image data. Ensuring the privacy of such data is the user’s responsibility.
+Before discarding a data storage device or transferring ownership to another person, erase all data using commercial deletion software, or format the device and then completely refill it with images containing no private information (for example, pictures of empty sky). Be sure to also replace any pictures selected for preset manual. Care should be taken to avoid injury when physically destroying data storage devices.
+AVC Patent Portfolio License
+THIS PRODUCT IS LICENSED UNDER THE AVC PATENT PORTFOLIO LICENSE FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE AVC STANDARD (“AVC VIDEO”) AND/OR (ii) DECODE AVC VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE AVC VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE
+OBTAINED FROM MPEG LA, L.L.C. SEE http://www.mpegla.com
+Use Only Nikon Brand Electronic Accessories
+Nikon cameras are designed to the highest standards and include complex electronic circuitry. Only Nikon brand electronic accessories (including chargers, batteries, AC adapters, and flash accessories) certified by Nikon specifically for use with this Nikon digital camera are engineered and proven to operate within the operational and safety requirements of this electronic circuitry.
+The use of non-Nikon electronic accessories could damage the camera and may void your Nikon warranty. The use of third-party rechargeable Li-ion batteries not bearing the Nikon holographic seal shown at right could interfere with
+normal operation of the camera or result in the batteries overheating, igniting, rupturing, or leaking.
+For more information about Nikon brand accessories, contact a local authorized Nikon dealer.
+
+D Use Only Nikon Brand Accessories
+Only Nikon brand accessories certified by Nikon specifically for use with your Nikon digital camera are engineered and proven to operate within its operational and safety requirements. THE USE OF NON-NIKON ACCESSORIES COULD DAMAGE YOUR CAMERA AND MAY VOID YOUR NIKON WARRANTY.
+A Before Taking Important Pictures
+Before taking pictures on important occasions (such as at weddings or before taking the camera on a trip), take a test shot to ensure that the camera is functioning normally. Nikon will not be held liable for damages or lost profits that may result from product malfunction.
+A Life-Long Learning
+As part of Nikon’s “Life-Long Learning” commitment to ongoing product support and education, continually-updated information is available on-line at the following sites:
+•	For users in the U.S.A.: http://www.nikonusa.com/
+•	For users in Europe and Africa: http://www.europe-nikon.com/support/
+•	For users in Asia, Oceania, and the Middle East: http://www.nikon-asia.com/ Visit these sites to keep up-to-date with the latest product information, tips, answers to frequently-asked questions (FAQs), and general advice on digital imaging and photography. Additional information may be available from the Nikon representative in your area. See the following URL for contact information: http://imaging.nikon.com/
+
+Introduction
+ Getting to Know the Camera
+Take a few moments to familiarize yourself with camera controls and displays. You may find it helpful to bookmark this section and refer to it as you read through the rest of the manual.
+The Camera Body
+
+
+
+
+
+
+
+
+
+
+Movie-record button	37
+Power switch	14
+Shutter-release button	24, 25
+E/N button	71, 73
+R (information) button	8
+Eyelets for camera strap	11
+Speaker
+
+Command dial
+Mode dial	4
+A/L button 	77
+Accessory shoe (for optional flash units)
+Infrared receiver for ML-L3 remote control (rear)	93
+Focal plane mark (E)
+
+
+
+
+
+
+
+
+
+AF-assist illuminator Self-timer lamp
+Red-eye reduction lamp
+Built-in flash	29
+M/ Y button	68
+Microphone	39
+Connector cover
+Fn button	77
+Mounting mark	13
+Lens release button	21
+Infrared receiver for ML-L3 remote control (front)	93
+
+CPU contacts Mirror
+Lens mount	13
+Body cap
+Accessory terminal	94
+Connector for external microphone	94
+USB and A/V connector	85
+HDMI mini-pin connector
+
+
+
+
+Rubber eyecup
+Viewfinder eyepiece	7, 17
+Diopter adjustment control	17
+K button	26
+G button	75
+X button	26
+W/Q button	26, 79
+P button	10
+a button	30, 36
+J (OK) button	79
+Multi selector	79
+Memory card slot cover	12, 20
+
+O button	28
+Memory card access lamp	25
+Battery-chamber cover latch
+...................................................12, 19
+Battery-chamber cover	12, 19
+I/E/# button 	6
+Tripod socket
+Monitor	8, 26, 30
+Battery latch	12, 19
+Power connector cover for optional power connector
+
+The Mode Dial
+The camera offers a choice of the following shooting modes and
+g mode:
+
+
+
+The I (E/#) Button
+To choose how the shutter is released (release mode), press the I (E/#) button, then highlight the desired option and press J.
+
+
+
+I (E/#) button
+
+
+
+
+Mode	Description
+8	Single frame: Camera takes one photograph each time shutter-
+release button is pressed.
+I	Continuous: The camera takes photographs while the shutter-
+release button is pressed.
+J	Quiet shutter release: As for single-frame, except that camera noise
+is reduced.
+
+E	Self-timer: Take pictures using the self-timer. The timer starts
+when the shutter-release button is pressed all the way down, and the shutter is released after about 10 seconds.
+"	Delayed remote (ML-L3): Shutter is released 2 s after shutter-release
+button on optional ML-L3 remote control is pressed.
+#	Quick-response remote (ML-L3): Shutter is released when shutter-
+release button on optional ML-L3 remote control is pressed.
+
+The Viewfinder
+
+
+
+
+
+
+
+
+Focus points	24
+Focus indicator	24
+Autoexposure (AE) lock indicator Shutter speed	72
+Aperture (f-number)	72
+Special effects mode indicator	52
+Low battery warning	18
+Number of exposures remaining
+.........................................................    16
+Number of shots remaining before memory buffer fills	24
+White balance recording indicator Exposure compensation value
+......................................................... 73
+Flash compensation value
+ISO sensitivity	10
+
+
+
+
+
+
+
+
+
+“k” (appears when memory remains for over 1000 exposures)
+.........................................................    16
+Flash-ready  indicator................... 29
+Flexible program indicator Exposure indicator ....................... 72
+Exposure compensation display
+......................................................... 73
+Electronic rangefinder
+Flash compensation indicator Exposure compensation indicator
+.........................................................    73
+Auto ISO sensitivity indicator Warning indicator....................... 102
+
+Note: Display shown with all indicators lit for illustrative purposes.
+
+The Information Display Viewing settings: To view the information display, press the R button.
+
+
+
+
+R button
+
+
+
+
+
+Shooting mode
+i auto/
+j auto (flash off).	22
+Scene modes	50
+Special effects mode	52
+P, S, A, and M modes	68
+Eye-Fi connection indicator Satellite signal indicator
+Print date indicator	77
+
+Vibration reduction indicator
+..........................................................20
+Flash control indicator
+Flash compensation indicator for optional flash units
+Active D-Lighting	76
+Picture Control	76
+Release mode	6
+“Beep” indicator	77
+
+
+
+
+Aperture (f-number)	72
+Aperture display	72
+Shutter speed	72
+Shutter-speed display.	72
+Autoexposure (AE) lock indicator Auto-area AF indicator
+3D-tracking indicator
+Focus point	24
+Battery indicator	18
+ISO sensitivity	10
+ISO sensitivity display
+Auto ISO sensitivity indicator
+
+Number of exposures remaining
+......................................................... 16
+White balance recording indicator
+“k” (appears when memory remains for over 1000 exposures)
+.........................................................    16
+Exposure indicator	72
+Exposure compensation indicator
+.........................................................    73
+Help icon	102
+
+Note: Display shown with all indicators lit for illustrative purposes.
+
+
+
+
+
+
+
+Changing settings: To change the settings at the bottom of the display, press the P button, then highlight items using the multi selector and press J to view options for the highlighted item.
+
+
+
+P button
+
+
+
+
+1	White balance	Adjust settings for different types of lighting.
+2	Image size	Choose a size for new photos.
+3	Image quality	Choose a file format and compression ratio.
+4	Flash mode	Choose the flash mode.
+5	ISO sensitivity	Control the camera’s sensitivity to light.
+6	Exposure
+compensation	Adjust exposure from the value metered by the
+camera, making the entire frame brighter or darker.
+7	Flash
+compensation	Adjust flash level.
+8	Metering	Choose how the camera meters exposure.
+9	AF-area mode	Choose how the focus area is selected.
+10	Focus mode	Choose how the camera focuses.
+
+First Steps
+Always turn the camera off before inserting or removing batteries or memory cards.
+1	Attach the strap.
+Attach the strap as shown. Repeat for the second eyelet.
+
+
+
+
+
+
+2	Charge the battery.
+If a plug adapter is supplied, raise the wall plug and connect the plug adapter as shown below at left, making sure the plug is fully inserted. Insert the battery and plug the charger in. An exhausted battery will fully charge in about an hour and 50 minutes.
+
+
+
+
+
+Battery charging
+Charging complete
+
+
+
+3	Insert the battery and memory card.
+Insert the battery in the orientation shown, using the battery to keep the orange battery latch pressed to one side. The latch locks the battery in place when the battery is fully inserted.
+
+
+Battery latch
+Slide the memory card in until it clicks into place.
+
+
+
+4	Attach a lens.
+Be careful to prevent dust from entering the camera when the lens or body cap is removed.
+Be sure to remove the lens cap before taking pictures.
+
+
+
+5	Turn the camera on.
+A language-selection dialog will be displayed.
+
+
+
+
+
+
+
+
+6	Choose a language and set the camera clock.
+Use the multi selector and J button to select a language and set the camera clock.
+
+
+q	w	e
+Select language	Select time zone	Select date format
+r	t
+
+
+Select daylight
+saving time option
+
+Set time and date
+(note that the camera uses a 24- hour clock)
+
+
+
+7	Check the battery level and number of exposures remaining.
+Press the R button and check the battery level and number of exposures remaining. In the case of exposures remaining, values over 1000 are shown in thousands, indicated by the letter “k”.
+R button
+Battery level (0 18)
+
+Number of exposures
+remaining
+
+8	Focus the viewfinder. After removing the lens cap, rotate the diopter adjustment control until the focus points are in sharp focus. When operating the control with
+your eye to the viewfinder, be careful not to put your fingers
+or fingernails in your eye.
+
+
+Focus points
+
+
+
+Viewfinder not in focus	Viewfinder in focus
+
+
+
+
+
+
+
+
+
+
+
+
+D Charging the Battery
+Read and follow the warnings and cautions on pages viii–xi and 97–101 of this manual. Charge the battery indoors at ambient temperatures of 5 °C–35 °C (41 °F–95 °F). Do not use the battery at ambient temperatures below 0 °C/32 °F or above 40 °C/104 °F; failure to observe this precaution could damage the battery or impair its performance. Capacity may be reduced and charging times may increase at battery temperatures from 0 °C/32 °F to 15 °C/59 °F and from 45 °C/113 °F to 60 °C/140 °F. The battery will not charge if its temperature is below 0 °C (32 °F) or above 60 °C (140 °F). If the CHARGE lamp flashes quickly (about eight times a second) during charging, confirm that the temperature is in the correct range and then unplug the charger and remove and reinsert the battery. If the problem persists, cease use immediately and take battery and charger to your retailer or a Nikon-authorized service representative.
+Use the charger with compatible batteries only. Unplug when not in use.
+A Battery Level
+Battery level is shown in the information display (if the battery is low, a warning will also be displayed in the viewfinder). If the information display does not appear when the R button is pressed, the battery is exhausted and needs to be recharged.
+Information
+display	Viewfinder	Description
+L	—	Battery fully charged.
+K	—	Battery partially discharged.
+H	d	Low battery. Ready fully-charged spare
+battery or prepare to charge battery.
+H
+(flashes)	d
+(flashes)	Battery exhausted. Charge battery.
+
+
+A Removing the Battery
+To remove the battery, turn the camera off and open the battery-chamber cover. Press the battery latch in the direction shown by the arrow to release the battery and then remove the battery by hand.
+
+A Formatting Memory Cards
+If this is the first time the memory card will be used in the camera or if the card has been formatted in another device, select Format memory card in the setup menu and follow the on-screen instructions to format the card (0 77). Note that this permanently deletes any data the card may contain. Be sure to
+copy any photographs and other data you wish to keep to a computer before proceeding.
+D Memory Cards
+•	Memory cards may be hot after use. Observe due caution when removing memory cards from the camera.
+•	Turn the power off before inserting or removing memory cards. Do not remove memory cards from the camera, turn the camera off, or remove or disconnect the power source during formatting or while data are being recorded, deleted, or copied to a computer. Failure to observe these precautions could result in loss of data or in damage to the camera or card.
+•	Do not touch the card terminals with your fingers or metal objects.
+•	Do not bend, drop, or subject to strong physical shocks.
+•	Do not apply force to the card casing. Failure to observe this precaution could damage the card.
+•	Do not expose to water, heat, high levels of humidity, or direct sunlight.
+•	Do not format memory cards in a computer.
+
+A Removing Memory Cards
+After confirming that the memory card access lamp is off, turn the camera off, open the memory card slot cover, and press the card in to eject it (q).  The card can then be removed by hand (w).
+
+
+A The Write Protect Switch
+SD memory cards are equipped with a write protect switch to prevent accidental loss of data. When this switch is in the “lock” position, the memory card can not be formatted and photos can not
+
+
+
+
+
+Write-protect switch
+
+be deleted or recorded (a beep will sound if you attempt to release the shutter). To unlock the memory card, slide the switch to the “write” position.
+A A-M, M/A-M, and A/M-M Switches
+When using autofocus with a lens equipped with an A-M mode switch, slide the switch to A (if the lens has an M/A-M or A/M-M switch, select M/A or A/M). For information on other lenses that can be used with this camera, see page 89.
+A Vibration Reduction (VR)
+Vibration reduction can be enabled by selecting On for Optical VR in the shooting menu, if the lens supports this option, or by sliding the lens vibration reduction switch to ON, if the lens is equipped with a vibration reduction switch. A vibration reduction indicator appears in the information display when vibration reduction is on.
+
+A Detaching the Lens
+Be sure the camera is off when removing or exchanging lenses. To remove the lens, press and hold the lens release button (q) while turning the lens clockwise (w). After removing the lens, replace the lens caps and camera body cap.
+A Retracting Lenses with Retractable Lens Barrel Buttons
+To retract the lens when the camera is not in use, hold the retractable lens barrel button
+(q) and rotate the zoom ring to the “L” (lock) position as shown (w). Retract the lens before removing it from the camera, and be careful not to press the retractable lens barrel button when attaching or removing the lens.
+A The Camera Clock
+The camera clock is less accurate than most watches and household clocks. Check the clock regularly against more accurate time pieces and reset as necessary.
+A The Clock Battery
+The camera clock is powered by an independent, rechargeable power source, which is charged as necessary when the main battery is installed. Three days of charging will power the clock for about a month. If a message warning that the clock is not set is displayed when the camera is turned on, the clock battery is exhausted and the clock has been reset. Set the clock to the correct time and date.
+
+“Point-and-Shoot” Modes (i and j)
+This section describes how to shoot photographs and movies in i and j modes, automatic “point-and-shoot” modes in which the majority of settings are controlled by the camera in response to shooting conditions.
+
+Before proceeding, turn the camera on and rotate the mode dial to i or j (the only difference between the two is that the flash will not fire in j mode).
+
+Mode dial
+
+
+
+Viewfinder photography
+
+
+Taking photographs Viewing photographs Deleting photographs
+
+
+0 23
+0 26
+0 28
+
+Live view
+
+
+
+Taking photographs Viewing photographs Deleting photographs Shooting movies Viewing movies Deleting movies
+
+
+
+0 30
+0 34
+0 35
+0 36
+0 41
+0 43
+
+ Framing Photos in the Viewfinder
+1	Ready the camera.
+When framing photographs in the viewfinder, hold the handgrip in your right hand and cradle the camera body or lens with your left.
+When framing photographs in portrait (tall) orientation, hold the camera as shown at right.
+
+
+
+
+
+A Using a Zoom Lens
+Before focusing, rotate the zoom ring to adjust the focal length and frame the photograph. Use the zoom ring to zoom in on the subject so that it fills a larger area of the frame, or zoom out to increase the area visible in the final photograph (select longer focal lengths on the lens focal length scale to zoom in, shorter focal lengths to zoom out). If the lens is equipped with a retractable lens barrel button (0 14), press and hold the button while rotating the zoom ring until the lens is released and the message shown at right is no longer displayed, and then adjust zoom using the zoom ring.
+
+
+
+Zoom in
+
+
+Zoom out Zoom ring
+
+
+
+2	Frame the photograph.
+Frame a photograph in the viewfinder with the main subject in at least one of the 11 focus points.
+
+
+
+
+3	Press the shutter-release button halfway.
+Press the shutter-release button halfway to focus (if the subject is poorly lit, the flash may pop up and the
+
+Focus point
+
+AF-assist illuminator may light). When the focus operation is complete, a
+
+In-focus indicator
+
+Buffer capacity
+
+beep will sound (a beep may not sound if the subject is moving) and the in-focus indicator (I) will appear in the viewfinder.
+
+In-focus indicator	Description
+I	Subject in focus.
+I
+(flashes)	Camera unable to focus using autofocus. See
+page 103.
+
+4	Shoot.
+Smoothly press the shutter- release button the rest of the way down to take the photograph. The memory card access lamp will light and the photograph will be displayed in the monitor for a few seconds. Do not eject the memory card or remove or disconnect the power source until the lamp has gone out and recording is complete.
+
+
+
+
+
+
+
+
+
+Memory card access lamp
+
+
+
+
+
+
+
+
+
+
+
+
+Viewing Photographs
+Pressing K displays a picture in the monitor.
+K button
+Press 4 or 2 to view additional pictures.
+
+
+❚❚ Thumbnail Playback
+To display images in “contact sheets” of four, nine, or 72 images (thumbnail playback), press the W (Q) button. Use the multi selector or command dial to highlight images and press J to display the highlighted image full frame. Press X to reduce the number of images displayed.
+
+
+
+W (Q) button
+
+❚❚ Calendar Playback
+To view images taken on a selected date (calendar playback), press the W (Q) button when 72 images are displayed. Press the W (Q) button to toggle between the date list and the list of thumbnails for the selected date. Use the multi selector to highlight dates in the date list or to highlight pictures in the thumbnail list. Press X when the cursor is in the date list to return to 72- frame playback.
+
+
+Date list
+
+
+
+
+
+
+
+
+
+
+Thumbnail list
+
+Deleting Unwanted Pictures Display the photograph you wish to delete.
+
+
+
+K button
+Press O; a confirmation dialog will be displayed.
+
+O button
+Press the O button again to delete the picture.
+
+A The Standby Timer
+The viewfinder and information display will turn off if no operations are performed for about eight seconds, reducing the drain on the battery. Press the shutter- release button halfway to reactivate the display. The length of time before the standby timer expires
+automatically can be selected using the Auto off timers option in the setup menu (0 77).
+
+
+Exposure meters off	Exposure meters on
+A The Built-in Flash
+If additional lighting is required for correct exposure in i mode, the built-in flash will pop up automatically when the shutter- release button is pressed halfway. If the flash is raised, photographs can only be taken when the flash-ready indicator (M) is displayed. If the flash-ready indicator is not displayed, the flash is charging; remove your finger briefly from the shutter-release button and try again.
+When the flash is not in use, return it to its closed position by pressing it gently downward till the latch clicks into place.
+
+ Framing Photos in the Monitor
+1	Press the a button.
+The view through the lens will be displayed in the camera monitor (live view).
+
+
+
+2	Ready the camera.
+
+a button
+
+Hold the handgrip in your right hand and cradle the camera body or lens with your left.
+When framing photographs in portrait (tall) orientation, hold the camera as shown at right.
+
+3	Focus.
+Press the shutter-release button halfway. The focus point will flash green while the camera focuses. If the camera is able to focus, the focus point will be displayed in green; if the
+
+
+
+
+
+
+
+
+Focus point
+
+camera is unable to focus, the focus point will flash red.
+4	Take the picture.
+Press the shutter-release button the rest of the way down. The monitor turns off and the memory card access lamp lights during recording. Do not eject the
+
+memory card or remove or disconnect the power source until the lamp has gone out and recording is complete. When recording is complete, the photograph will be displayed in the monitor for a few seconds.
+Press the a button to exit live view.
+
+Memory card access lamp
+
+
+
+A Automatic Scene Selection (Scene Auto Selector) If live view is selected in i or j mode, the camera will automatically analyze the subject and select the appropriate shooting mode when autofocus is enabled. The selected mode is shown in the monitor.
+c	Portrait	Human portrait subjects
+d	Landscape	Landscapes and cityscapes
+e	Close up	Subjects close to the camera
+f	Night portrait	Portrait subjects framed against a dark
+background
+Z	Auto	Subjects suited to i or j mode or that do not fall into the categories listed above
+b	Auto (flash off)
+
+
+D Shooting in Live View Mode
+Although it will not appear in the final picture, distortion may be visible in the monitor if the camera is panned horizontally or an object moves at high speed through frame. Bright light sources may leave after-images in the monitor when the camera is panned. Bright spots may also appear. Flicker and banding visible in the monitor under fluorescent, mercury vapor, or sodium lamps can be reduced using Flicker reduction (0 77), although they may still be visible in the final photograph at some shutter speeds. When shooting in live view mode, avoid pointing the camera at the sun or other strong light sources. Failure to observe this precaution could result in damage to the camera’s internal circuitry.
+Live view ends automatically if the mode dial is rotated to g or the mode dial is rotated from g to another setting.
+Live view may end automatically to prevent damage to the camera’s internal circuits; exit live view when the camera is not in use. Note that the temperature of the camera’s internal circuits may rise and noise (bright spots, randomly-spaced bright pixels, or fog) may be displayed in the following instances (the camera may also become noticeably warm, but this does not indicate a malfunction):
+•	The ambient temperature is high
+•	The camera has been used for extended periods in live view or to record movies
+•	The camera has been used in continuous release mode for extended periods
+If live view does not start when you attempt to start live view, wait for the internal circuits to cool and then try again.
+D The Count Down Display
+A count down will be displayed 30 s before live view ends automatically (the timer turns red 5 s before the auto off timer expires (0 77) or if live view is about to end to protect the internal circuits). Depending on shooting conditions, the timer may appear immediately when live view is selected.
+
+Viewing Photographs
+Pressing K displays a picture in the monitor.
+K button
+Press 4 or 2 to view additional pictures.
+
+Deleting Unwanted Pictures Display the photograph you wish to delete.
+
+
+
+K button
+Press O; a confirmation dialog will be displayed.
+O button
+Press the O button again to delete the picture.
+
+ Recording Movies
+Movies can be recorded in live view mode.
+1	Press the a button.
+The view through the lens is displayed in the monitor.
+
+
+
+
+2	Ready the camera.
+
+a button
+
+Hold the handgrip in your right hand and cradle the camera body or lens with your left.
+
+
+3	Focus.
+Press the shutter-release button halfway to focus.
+
+
+
+Focus point
+
+4	Start recording.
+Press the movie-record button to start recording. A recording indicator and the time available are displayed in the monitor.
+
+
+
+
+
+
+
+
+
+
+
+5	End recording.
+Press the movie-record button again to end recording. Recording will end automatically when the maximum length is reached, the memory card is full, or another mode is selected. Press the a button to exit live view.
+
+
+
+Movie-record button Recording indicator
+
+
+
+
+
+
+Time remaining
+
+
+
+A Maximum Length
+The maximum size for individual movie files is 4 GB; maximum length varies with the options selected for Movie settings > Frame size/ frame rate and Movie quality in the shooting menu (0 76) as shown below. Note that depending on memory card write speed, shooting may end before this length is reached.
+
+1	Listed value. Actual frame rates for 60p, 50p, 30p, 25p, and 24p are 59.94, 50, 29.97, 25, and 23.976 fps respectively.
+2	Available when NTSC is selected for Video mode (0 77). 3 Available when PAL is selected for Video mode.
+4 Movies recorded in miniature effect mode are up to three minutes long when played back.
+
+D Recording Movies
+Flicker, banding, or distortion may be visible in the monitor and in the final movie under fluorescent, mercury vapor, or sodium lamps or if the camera is panned horizontally or an object moves at high speed through frame (flicker and banding can be reduced using Flicker reduction; 0 77). Bright light sources may leave after-images when the camera is panned. Jagged edges, color fringing, moiré, and bright spots may also appear. Bright bands may appear in some areas of the frame if the subject is briefly illuminated by a flash or other bright, momentary light source. When recording movies, avoid pointing the camera at the sun or other strong light sources. Failure to observe this precaution could result in damage to the camera’s internal circuitry.
+The camera can record both video and sound; do not cover the microphone during recording. Note that the built-in microphone may record lens noise during autofocus and vibration reduction.
+Flash lighting can not be used during movie recording.
+Live view may end automatically to prevent damage to the camera’s internal circuits; exit live view when the camera is not in use. Note that the temperature of the camera’s internal circuits may rise and noise (bright spots, randomly-spaced bright pixels, or fog) may be displayed in the following instances (the camera may also become noticeably warm, but this does not indicate a malfunction):
+•	The ambient temperature is high
+•	The camera has been used for extended periods in live view or to record movies
+•	The camera has been used in continuous release mode for extended periods
+If live view does not start when you attempt to start live view or movie recording, wait for the internal circuits to cool and then try again.
+
+
+
+Viewing Movies
+Press K to start playback and then scroll through pictures until a movie (indicated by a 1 icon) is displayed.
+K button
+
+Press J to start playback; your current position is indicated by the movie progress bar.
+1 icon	Length	Current position/total length
+
+
+
+
+
+
+
+Movie progress bar
+
+
+
+Volume
+
+
+Guide
+
+The following operations can be performed:
+
+To	Use	Description
+Pause		Pause playback.
+Play		Resume playback when movie is paused or during rewind/advance.
+
+
+
+Advance/rewind
+
+
+Speed increases with each press, from 2×
+to 4× to 8× to 16×; keep pressed to skip to beginning or end of movie (first frame is indicated by h in top right corner of monitor, last frame by i).  If playback is paused, movie rewinds or advances one frame at a time; hold for continuous rewind or advance.
+Skip 10 s
+Rotate the command dial to skip ahead or back 10 s.
+Adjust volume	X/W (Q)	Press X to increase volume, W (Q) to
+decrease.
+Return to full- frame playback	/K	Press 1 or K to exit to full-frame playback.
+
+Deleting Unwanted Movies Display the movie you wish to delete (movies are indicated by 1 icons).
+
+
+
+K button
+Press O; a confirmation dialog will be displayed.
+O button
+Press the O button again to delete the movie.
+
+Guide Mode
+ The Guide
+Guide mode gives access to a variety of frequently-used and useful functions. The top level of the guide is displayed when the mode dial is rotated to g.
+
+Battery indicator (0 18)
+
+
+Number of exposures remaining (0 16)
+
+Shooting mode: A guide mode indicator appears on the shooting mode icon.
+
+Take pictures.	View and/or delete pictures.
+
+
+
+
+
+
+Guide Mode Menus
+To access these menus, highlight Shoot, View/delete, Retouch, or Set up and press J.
+
+
+❚❚ Shoot
+
+
+Easy operation	Advanced operation Soften backgrounds
+# Bring more into focus
+
+
+
+
+Adjust aperture.
+
+Freeze motion (people)
+
+Select a shutter
+
+$ Freeze motion (vehicles) speed.
+Show water flowing
+Adjust white balance
+Capture reds in sunsets *  to vividly capture the
+colors in sunsets.
+
+Take bright photos *
+
+H Take dark (low key) photos *
+
+
+Reduce blur
+
+Adjust exposure compensation to take bright (high key) or dark (low key) photos.
+Adjust auto ISO sensitivity control for poorly lit subjects or telephoto lenses.
+
+* Affects other Advanced operation items. To restore default settings, turn the camera off and then on again.
+
+“Start Shooting”
+
+
+
+
+
+“More Settings”
+
+
+
+
+
+
+
+
+
+
+
+
+❚❚ View/Delete View single photos View multiple photos Choose a date
+
+
+Highlight an option and press J.
+•	Use the viewfinder
+•	Use live view
+•	Shoot movies
+
+
+
+If More settings is displayed, you can highlight this option and press 2 to access the following settings (the settings available vary with the shooting option selected):
+•	Flash settings > Flash mode
+•	Flash settings > Flash compensation
+•	Release mode
+•	ISO sensitivity settings > ISO sensitivity
+•	ISO sensitivity settings > Auto ISO sensitivity control
+•	Set Picture Control
+•	Exposure compensation
+•	White balance
+
+
+View a slide show Delete photos
+
+
+
+
+
+
+
+
+❚❚ Retouch
+
+
+Trim
+
+
+Filter effects (cross screen) Filter effects (soft)
+
+❚❚ Set Up Image quality Image size Auto off timers Print date
+
+Display and sound settings
+
+Monitor brightness
+Info background color
+Auto info display
+Beep
+Movie settings
+
+
+
+Photo illustration Miniature effect Selective color
+
+
+Playback folder Playback display options DPOF print order
+
+Clock and language
+
+Time zone and date
+Language
+Format memory card Output settings
+HDMI
+Video mode
+Wireless mobile adapter Eye-Fi upload *
+
+Slot empty release lock
+
+
+
+
+
+* Only available when compatible Eye-Fi memory card is inserted.
+Changes to Image quality, Image size, Auto off timers, Print date, Playback folder, Playback display options, all Display and sound settings options, and all Movie settings options except Flicker reduction apply in guide mode only and are not reflected in other shooting modes.
+
+Using the Guide
+The following operations can be performed while the guide is displayed:
+
+To	Use	Description
+
+Return to top level of guide
+
+G button
+
+Press G to turn the monitor on or return to the top level of the guide.
+Turn monitor on
+Highlight a menu		Press 1, 3, 4, or 2 to highlight a menu.
+
+
+
+
+Highlight options		Press 1 or 3 to highlight options in the menus.
+
+
+
+
+Press 1, 3, 4, or 2 to highlight options in
+displays like that shown below.
+Select
+highlighted menu or option
+
+Press J to select the highlighted menu or option.
+
+To	Use	Description
+
+
+
+
+Return to previous display
+
+Press 4 to return to the previous display.
+
+
+
+
+To cancel and return to the previous display
+from displays like that shown below, highlight & and press J.
+
+
+
+
+
+
+
+
+
+View help
+
+
+
+
+
+
+
+W (Q) button	If a d icon is displayed at the bottom left
+corner of the monitor, help can be displayed by pressing the W (Q) button. A description of the currently selected option will be displayed while the button is pressed. Press 1 or 3 to scroll through the display.
+
+d (help) icon
+
+
+Matching Settings to the Subject or Situation (Scene Mode)
+The camera offers a choice of “scene” modes. Choosing a scene mode automatically optimizes settings to suit the selected scene, making creative photography as simple as selecting a mode, framing a picture, and shooting as described on page 22.
+
+The following scenes can be selected with the mode dial:
+
+Mode dial
+
+
+
+
+
+
+k Portrait
+Use for portraits with soft, natural-looking skin tones. If the subject is far from the background or a telephoto lens is used, background details will be softened to lend the composition a sense of depth.
+l Landscape
+Use for vivid landscape shots in daylight.
+Note: The built-in flash and AF-assist illuminator turn off.
+p Child
+Use for snapshots of children. Clothing and background details are vividly rendered, while skin tones remain soft and natural.
+
+m Sports
+Fast shutter speeds freeze motion for dynamic sports shots in which the main subject stands out clearly.
+Note: The built-in flash and AF-assist illuminator turn off.
+n Close up
+Use for close-up shots of flowers, insects, and other small objects (a macro lens can be used to focus at very close ranges).
+o Night Portrait
+Use for a natural balance between the main subject and the background in portraits taken under low light.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Effects
+Special effects can be used when recording images.
+% Night Vision	3 Selective Color
+S Super Vivid	1 Silhouette
+T Pop	2 High Key
+U Photo Illustration	3 Low Key
+g Color Sketch	) HDR Painting ' Toy Camera Effect	I Easy Panorama ( Miniature Effect
+The following effects can be selected by rotating the mode dial to q and rotating the command dial until the desired option appears in the monitor.
+
+
+
+
+
+Mode dial	Command dial
+
+
+
+
+
+
+Monitor
+
+% Night Vision
+Use under conditions of darkness to record monochrome images at high ISO sensitivities.
+Note: Pictures may be affected by noise in the form of randomly-spaced bright pixels, fog, or lines. Autofocus is available in live view only; manual focus can be used if the camera is unable to focus. The built-in flash and AF-assist illuminator turn off.
+S Super VIVId
+Overall saturation and contrast are increased for a more vibrant image.
+T Pop
+Overall saturation is increased for a more lively image.
+U Photo Illustration
+Sharpen outlines and simplify coloring for a poster effect that can be adjusted in live view (0 57).
+Note: The flash turns off automatically; to use the flash, choose a flash mode (0 10) of No (auto) or Njo (auto + red-eye reduction). Movies shot in this mode play back like a slide show made up of a series of stills.
+g Color Sketch
+The camera detects and colors outlines for a color sketch effect. The effect can be adjusted in live view (0 58).
+Note: Movies shot in this mode play back like a slide show made up of a series of stills.
+
+' Toy Camera Effect
+Create photos and movies that appear to have been shot with a toy camera. The effect can be adjusted in live view (0 59).
+( Miniature Effect
+Create photos that appear to be pictures of dioramas. Works best when shooting from a high vantage point. Miniature effect movies play back at high speed, compressing about 45 minutes of footage shot at 1920 × 1080/30p into a movie that plays back in about three minutes. The effect can be adjusted in live view (0 60).
+Note: Sound is not recorded with movies. The built-in flash and AF- assist illuminator turn off.
+3 SELECTIVe Color
+All colors other than the selected colors are recorded in black and white. The effect can be adjusted in live view (0 62).
+Note: The built-in flash turns off.
+1	Silhouette
+Silhouette subjects against bright backgrounds.
+Note: The built-in flash turns off.
+2	High Key
+Use with bright scenes to create bright images that seem filled with light.
+Note: The built-in flash turns off.
+
+3	Low Key
+Use with dark scenes to create dark, low-key images with prominent highlights.
+Note: The built-in flash turns off.
+) HDR Painting
+Each time a photo is taken, the camera shoots two frames at different exposures and combines them for a painterly effect that emphasizes detail and color.
+Note: The effect can not be previewed in live view. Note that the desired results may not be achieved if the camera or subject moves during shooting. During recording, a message is displayed and no further photos can be taken. The built-in flash turns off, continuous shooting is disabled, and movies are recorded in j mode.
+I Easy Panorama
+Shoot panoramas as described on page 64. Start live view before beginning recording; panoramas can not be shot during viewfinder photography.
+Note: The built-in flash turns off and movies can not be recorded.
+
+
+
+Options Available in Live View
+❚❚ U Photo Illustration
+1	Select live view.
+Press the a button. The view through the lens will be displayed in the monitor.
+
+
+
+2	Adjust outline thickness.
+Press J to display the options shown at right. Press 2 or 4 to make outlines thicker or thinner.
+
+
+
+
+
+a button
+
+
+
+
+
+
+3	Press J.
+Press J to exit when settings are complete. To exit live view, press the a button. The selected settings will continue in effect and will apply to photographs taken using the viewfinder.
+
+❚❚ g Color Sketch
+1	Select live view.
+Press the a button. The view through the lens will be displayed in the monitor.
+
+
+
+2	Adjust options.
+Press J to display the options shown at right. Press 1 or 3 to highlight Vividness or Outlines and press 4 or 2 to change.
+Vividness can be increased to make colors more saturated, or decreased for a washed-out,
+
+
+
+a button
+
+
+
+
+monochromatic effect, while outlines can be made thicker or thinner. Increasing the thickness of the lines also makes colors more saturated.
+3	Press J.
+Press J to exit when settings are complete. To exit live view, press the a button. The selected settings will continue in effect and will apply to photographs taken using the viewfinder.
+
+❚❚ ' Toy Camera Effect
+1	Select live view.
+Press the a button. The view through the lens will be displayed in the monitor.
+
+
+
+2	Adjust options.
+Press J to display the options shown at right. Press 1 or 3 to highlight Vividness or Vignetting and press 4 or 2 to change. Adjust vividness to make colors more or less saturated, vignetting to control the amount of vignetting.
+3	Press J.
+
+
+
+a button
+
+
+
+
+Press J to exit when settings are complete. To exit live view, press the a button. The selected settings will continue in effect and will apply to photographs taken using the viewfinder.
+
+❚❚ ( Miniature Effect
+1	Select live view.
+Press the a button. The view through the lens will be displayed in the monitor.
+
+
+
+2	Position the focus point. Use the multi selector to position the focus point in the area that will be in focus and then press the shutter- release button halfway to focus. To temporarily clear
+
+
+
+a button
+
+
+miniature effect options from the display and enlarge the
+view in the monitor for precise focus, press X. Press W (Q) to restore the miniature effect display.
+
+3	Display options.
+Press J to display miniature effect options.
+
+
+
+4	Adjust options.
+Press 4 or 2 to choose the orientation of the area that will be in focus and press 1 or 3 to adjust its width.
+
+
+5	Press J.
+Press J to exit when settings are complete. To exit live view, press the a button. The selected settings will continue in effect and will apply to photographs taken using the viewfinder.
+
+❚❚ 3 SelecTIVe Color
+1	Select live view.
+Press the a button. The view through the lens will be displayed in the monitor.
+
+
+
+2	Display options.
+Press J to display selective color options.
+
+
+
+a button
+
+
+
+
+3	Select a color.
+Frame an object in the white square in the center of the display and press 1 to choose the color of the object as one that will remain in the final image (the camera may have
+
+
+
+Selected color
+
+
+difficulty detecting unsaturated colors; choose a saturated color). To zoom in on the center of the display for more precise color selection, press X. Press W (Q) to zoom out.
+
+4	Choose the color range. Press 1 or 3 to increase or decrease the range of similar hues that will be included in the final image. Choose from values between 1 and 7; note that higher values may include hues from other colors.
+5	Select additional colors. To select additional colors, rotate the command dial to highlight another of the three color boxes at the top of the display and repeat Steps 3 and 4 to select
+
+
+Color range
+
+
+
+another color. Repeat for a third color if desired. To deselect
+the highlighted color, press O (To remove all colors, press and hold O. A confirmation dialog will be displayed; select Yes).
+6	Press J.
+Press J to exit when settings are complete. During shooting, only objects of the selected hues will be recorded in color; all others will be recorded in black-and-white. To exit live view, press the a button. The selected settings will continue in effect and will apply to photographs taken using the viewfinder.
+
+I Easy Panorama
+Follow the steps below to shoot panoramas.
+1	Select live view.
+Press the a button. A framing grid and the view through the lens will be displayed in the monitor.
+
+a button
+
+2	Focus.
+Frame the start of the panorama and press the shutter-release button halfway.
+
+3	Start shooting.
+Press the shutter-release button the rest of the way down and then lift your finger from the button. The display will briefly go dark and then turn on with 4, 6, 7, and 5 icons indicating the
+possible pan directions; focus and exposure will lock.
+
+4	Pan the camera.
+Slowly pan the camera up, down, left, or right as shown below. Shooting will start when the camera detects the pan direction and a progress indicator will appear in the display. Shooting ends automatically when the end of the panorama is reached.
+
+
+Progress indicator
+
+
+An example of how to pan the camera is shown below. Without changing your position, pan the camera in a steady curve either horizontally or vertically. Time the pan according to the option selected for Image size in the shooting menu: about 15 seconds are needed to complete the pan when Normal panorama is selected, about 30 seconds when Wide panorama is selected.
+
+
+A Panoramas
+Panorama size can be selected using the Image size item in the shooting menu; choose from Normal panorama and Wide panorama (0 76). An error message will be displayed if the camera is panned too quickly or unsteadily. Note that because panoramas are composed of multiple images, the joins between images may be visible and the desired results may not be achieved with moving subjects or with neon lights or other subjects that exhibit rapid changes in color or brightness, subjects that are too close to the camera, poorly-lit subjects, and subjects such as the sky or sea that are a solid color or contain simple repeating patterns.
+Exposure compensation (0 73) can be used to adjust exposure by up to ±3 EV in steps of 1/3 EV. Adjust exposure compensation after starting live view in Step 1.
+The completed panorama will be slightly smaller than the area visible in the display during shooting. No panorama will be recorded if shooting ends before the halfway point; if shooting ends after the halfway point but before the panorama is complete, the unrecorded portion will be shown in gray. Dates can not be imprinted on panoramas.
+
+❚❚ Viewing Panoramas
+To view a panorama, display it in full-frame playback (0 26) and press J. The start of the panorama will be displayed with the smallest dimension filling the display and the camera will then scroll through the picture in the original pan direction. Your current position is indicated by the navigation window.
+
+
+
+
+
+
+Navigation window Guide
+The following operations can be performed:
+To	Use	Description
+
+Pause
+
+
+Pause playback.
+Play	J	Resume playback when the panorama
+is paused or during rewind/advance.
+
+
+Advance/rewind
+
+Press 4 to rewind, 2 to advance. If
+playback is paused, the panorama rewinds or advances a segment at a time; keep the button pressed for continuous rewind or advance.
+Return to full-frame playback	/K	Press 1 or K to exit to full-frame playback.
+
+P, S, A, and M Modes
+P, S, A, and M modes offer different degrees of control over shutter speed and aperture:
+
+
+
+
+Mode	Description
+
+P
+Programmed auto (0 69)
+Recommended for snapshots and in other
+situations in which there is little time to adjust camera settings. Camera sets shutter speed and aperture for optimal exposure.
+
+S	Shutter-priority auto (0 69)
+Use to freeze or blur motion. User chooses
+shutter speed; camera selects aperture for best results.
+
+A	Aperture-priority auto
+(0 70)
+Use to blur background or bring both
+foreground and background into focus. User chooses aperture; camera selects shutter speed for best results.
+
+M
+Manual (0 71)
+User controls both shutter speed and
+aperture. Set shutter speed to “Bulb” or “Time” for long time-exposures.
+
+
+
+
+
+
+
+
+
+
+
+Mode P (Programmed Auto)
+This mode is recommended for snapshots or whenever you want to leave the camera in charge of shutter speed and aperture. The camera automatically adjusts shutter speed and aperture for optimal exposure in most situations.
+Mode S (Shutter-Priority Auto) In shutter-priority auto, you choose the shutter speed while the camera automatically selects the aperture that will produce the optimal exposure.
+Rotate the command dial to choose the desired shutter speed: rotate right for
+faster speeds, left for slower speeds.	Command dial
+
+
+
+
+Mode A (Aperture-Priority Auto) In aperture-priority auto, you choose the aperture while the camera automatically selects the shutter speed that will produce the optimal exposure. Rotate
+the command dial left for larger apertures (lower f-numbers), right for
+smaller apertures (higher f-numbers).	Command dial
+
+
+
+
+Mode M (Manual)
+In manual mode, you control both shutter speed and aperture. Checking the exposure indicator (0 72), adjust shutter speed and aperture. Shutter speed is selected by rotating the command dial (right for faster speeds, left for slower). To adjust aperture, keep the E (N) button pressed while rotating the command dial (left for larger apertures/lower f-numbers and right for smaller apertures/higher f-numbers).
+Shutter speed
+
+Aperture
+
+E (N) button	Command dial
+
+A Shutter Speed and Aperture
+Shutter speed and aperture are shown in the viewfinder and information display.
+Shutter speed
+
+Aperture
+
+Fast shutter speeds (1/1600 s in this	Slow shutter speeds (here 1 s) blur example) freeze motion.		motion.
+
+Large apertures (such as f/5.6;	Small apertures (f/22 in this case) remember, the lower the f-number,		bring both background and the larger the aperture) blur details			foreground into focus.
+in front of and behind the main subject.
+A The Exposure Indicator
+Optimal exposure	Underexposed by 1/3 EV	Overexposed by over 2 EV
+
+
+
+
+
+
+
+
+Exposure Compensation (P, S, A, M, % and I modes only)
+Exposure compensation is used to alter exposure from the value suggested by the camera, making pictures brighter or darker (0 109).
+
+
+
+–1 EV		No exposure compensation
+
++1 EV
+
+To choose a value for exposure compensation, keep the E (N) button pressed and rotate the command dial until the desired value is selected in the viewfinder or information display. Normal exposure can be restored by setting exposure compensation to
+±0. Exposure compensation is not reset when the camera is turned off.
+
+
+
++
+
+
+E (N) button	Command dial	Information display
+
+–0.3 EV	+2 EV
+
+
+
+
+
+
+
+
+
+
+
+
+Camera Menus
+Most shooting, playback, and setup options can be accessed from the camera menus. To view the menus, press the G button.
+
+G button
+Tabs
+Choose from the following menus:
+•	D: Playback (0 76)	• N: Retouch (0 78)
+•	C: Shooting (0 76)	• m: Recent settings (0 78)
+•	B: Setup (0 77)
+
+
+Current settings are shown by icons.
+
+
+Menu options
+Options in current menu.
+
+Help icon (0 79)
+
+ Menu Options
+❚❚ D Playback Menu: Managing Images
+
+Delete Playback folder
+Playback display options Image review
+Rotate tall
+
+
+
+Slide show
+
+
+DPOF print order Rating
+
+Select to send to smart device
+
+
+
+
+
+
+❚❚ C Shooting Menu: Shooting Options
+
+Reset shooting menu Image quality
+Image size White balance
+Set Picture Control Auto distortion control Color space
+Active D-Lighting
+
+
+
+Noise reduction
+
+
+ISO sensitivity settings AF-area mode
+Built-in AF-assist illuminator Metering
+Flash cntrl for built-in flash Optical VR *
+Movie settings
+
+
+
+* Available only with lenses that support this item.
+
+❚❚ B Setup Menu: Camera Setup
+Reset setup options Format memory card Monitor brightness Info display format Auto info display Clean image sensor
+Lock mirror up for cleaning Image Dust Off ref photo Flicker reduction
+Time zone and date Language
+Auto image rotation Image comment Auto off timers
+Self-timer
+
+
+
+Remote on duration (ML-L3) Beep
+Rangefinder
+
+
+File number sequence Buttons
+Slot empty release lock Print date
+Storage folder Accessory terminal Video mode
+
+HDMI
+
+
+Wireless mobile adapter Eye-Fi upload * Firmware version
+
+
+
+
+* Only available when compatible Eye-Fi memory card is inserted.
+
+❚❚ N Retouch Menu: Creating Retouched Copies
+
+D-Lighting
+Red-eye correction Trim
+Monochrome Filter effects Color balance Image overlay
+NEF (RAW) processing Resize
+Quick retouch Straighten
+
+
+
+Distortion control Fisheye
+Color outline Photo illustration Color sketch Perspective control Miniature effect Selective color
+
+Edit movie
+
+
+Side-by-side comparison *
+
+
+
+
+* Available only if retouch menu is displayed by pressing P and selecting Retouch in full- frame playback when a retouched image or original is displayed.
+❚❚ m Recent Settings
+The recent settings menu lists the twenty most recently used settings.
+
+Using Camera Menus
+The multi selector and J button are used to navigate the camera menus.
+Follow the steps below to navigate the menus.
+
+1	Display the menus.
+Press the G button to display the menus.
+
+
+G button
+
+
+
+
+
+2	Highlight the icon for the current menu.
+Press 4 to highlight the icon for the current menu.
+
+3	Select a menu.
+Press 1 or 3 to select the desired menu.
+4	Position the cursor in the selected menu.
+Press 2 to position the cursor in the selected menu.
+
+5	Highlight a menu item.
+Press 1 or 3 to highlight a menu item.
+
+
+
+6	Display options.
+Press 2 to display options for the selected menu item.
+
+
+
+7	Highlight an option.
+Press 1 or 3 to highlight an option.
+
+
+8	Select the highlighted item.
+Press J to select the highlighted item. To exit without making a selection, press the G button.
+Note the following:
+•	Menu items that are displayed in gray are not currently available.
+•	While pressing 2 generally has the same effect as pressing J, there are some cases in which selection can only be made by pressing J.
+•	To exit the menus and return to shooting mode, press the shutter-release button halfway (0 25).
+
+ViewNX 2
+ Installing ViewNX 2
+Install the supplied software to display and edit photographs and movies that have been copied to your computer. Before installing ViewNX 2, confirm that your computer meets the system requirements on page 84. Be sure to use the latest version of ViewNX 2, which is available for download from the websites listed on page xvi, as earlier versions that do not support the D3300 may fail to transfer NEF (RAW) images correctly.
+1	Launch the installer.
+Start the computer, insert the installer CD, and launch the installer. A language selection dialog will be displayed. If the desired language is not available, click Region Selection to choose a different region (region selection is not available in the European release).
+q Select region (if required)
+
+
+
+w Select language
+
+e Click Next
+
+
+
+2	Start the installer.
+Click Install and follow the on-screen instructions.
+
+
+3	Exit the installer.
+
+Click Install
+
+
+ 	Windows		Mac
+Click Yes	Click OK
+4	Remove the installer CD from the CD-ROM drive.
+
+A System Requirements
+	Windows	Mac
+
+
+
+
+
+
+CPU	•	Photos: Intel Celeron, Pentium 4, Core Series;
+1.6 GHz or better
+•	Movies (playback): Pentium D
+3.0 GHz or better; Intel Core i5 or better recommended when viewing movies with a frame size of 1280×720 or more at a frame rate of 30 fps or above or movies with a frame size of 1920×1080 or more
+•	Movies (editing): Intel Core i5 or better	•	Photos: Intel Core or Xeon series
+•	Movies (playback): Core Duo
+2 GHz or better; Intel Core i5 or better recommended when viewing movies with a frame size of 1280×720 or more at a frame rate of
+30 fps or above or movies with a frame size of
+1920×1080 or more
+•	Movies (editing): Intel Core i5 or better
+
+
+OS	Pre-installed versions of Windows 8.1, Windows 7, Windows Vista, and Windows XP; note that 64-bit
+versions of Windows XP are not supported	OS X 10.9, 10.8, or 10.7
+
+
+Memory (RAM)	•	32-bit Windows 8.1, Windows 7, or Windows Vista: 1 GB or more
+(2 GB or more recommended)
+•	64-bit Windows 8.1, Windows 7, or Windows Vista: 2 GB or more
+(4 GB or more recommended)
+•	Windows XP: 512 MB or more (2 GB or more recommended)	2 GB or more (4 GB or more recommended)
+Hard disk space	A minimum of 1 GB available on the startup disk (3 GB or more recommended)
+
+
+Graphics	Resolution: 1024×768 pixels (XGA) or more (1280×1024 pixels or more recommended)
+Color: 24-bit color (True Color) or more	Resolution: 1024×768 pixels (XGA) or more (1280×1024 pixels or more recommended)
+Color: 24-bit color (millions of colors) or more
+See the websites listed on page xvi for the latest information on supported operating systems.
+
+ Using ViewNX 2
+Copy Pictures to the Computer
+Before proceeding, be sure you have installed the software on the supplied ViewNX 2 CD (0 82).
+1	Connect the USB cable.
+After turning the camera off and ensuring that a memory card is inserted, connect the supplied USB cable as shown and then turn the camera on.
+
+2	Start Nikon Transfer 2 component of ViewNX 2.
+If a message is displayed prompting you to choose a program, select Nikon Transfer 2.
+
+
+
+3	Click Start Transfer.
+At default settings, pictures on the memory card will be copied to the computer.
+Start Transfer
+
+
+4	Terminate the connection.
+When transfer is complete, turn the camera off and disconnect the USB cable.
+
+View Pictures
+Pictures are displayed in ViewNX 2 when transfer is complete.
+
+
+❚❚ Retouching Photographs
+To crop pictures and perform such tasks as adjusting sharpness and tone levels, click the Edit button in the ViewNX 2 toolbar.
+❚❚ Editing MoVIES
+To perform such tasks as trimming unwanted footage from movies shot with the camera, click the Movie Editor button in the ViewNX 2 toolbar.
+
+❚❚ Printing Pictures
+Click the Print button in the ViewNX 2 toolbar. A dialog will be displayed, allowing you to print pictures on a printer connected to the computer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Notes
+Read this chapter for information on compatible accessories, cleaning and storing the camera, and what to do if an error message is displayed or you encounter problems using the camera.
+
+ Compatible Lenses
+This camera supports autofocus with AF-S, AF-P, and AF-I CPU lenses only. AF-S lenses have names beginning with AF-S, AF-P lenses with AF-P, and AF-I lenses with AF-I. Autofocus is not supported with other autofocus (AF) lenses. The following table lists the features available with compatible lenses in viewfinder photography:
+
+Camera setting
+
+
+Lens/accessory	Focus	Mode	Metering
+
+AF	MF (with electronic rangefinder)
+MF
+M	Other modes	L
+
+N
+						3D	Color
+AF-S, AF-P, AF-I NIKKOR	z	z	z	z	z	z	—	z1
+Other type G or D AF NIKKOR	—	z	z	z	z	z	—	z1
+PC-E NIKKOR series 2, 3	—	z4	z	z	z	z	—	z1
+PC Micro 85mm f/2.8D 5	—	z4	z	z	—	z	—	z1
+AF-S/ AF-I teleconverter	z6	z6	z	z	z	z	—	z1
+Other AF NIKKOR (except lenses for F3AF)	—	z7	z	z	z	—	✔	z1
+AI-P NIKKOR	—	z8	z	z	z	—	✔	z1
+1	Spot metering meters selected focus point.
+2	Observe due caution when tilting or shifting PC-E NIKKOR 24mm f/3.5D ED lenses, as they may contact the camera body and cause damage or injury.
+3	Shifting and/or tilting the lens interferes with exposure.
+
+4	Can not be used with shifting or tilting.
+5	Optimal exposure will only be achieved if the lens is at maximum aperture and the lens is not shifted or tilted.
+6	With maximum effective aperture of f/5.6 or faster.
+7 When AF 80–200mm f/2.8, AF 35–70mm f/2.8, AF 28–85mm f/3.5–4.5 (New), or AF 28–
+85mm f/3.5–4.5 lenses are zoomed all the way in at the minimum focus distance, the in-focus indicator (I) may be displayed when the image on the matte screen in the viewfinder is not in focus. Before shooting, confirm that the image in the viewfinder screen is in focus.
+8 With maximum aperture of f/5.6 or faster.
+
+•	Noise in the form of lines may appear during autofocus when movies are recorded at high ISO sensitivities. Use manual focus or focus lock.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Other Accessories
+At the time of writing, the following accessories were available for the D3300.
+
+
+
+
+
+Power sources	•	Rechargeable Li-ion Battery EN-EL14a (0 11): Additional
+EN-EL14a batteries are available from local retailers and Nikon-authorized service representatives. EN-EL14 batteries can also be used.
+•	Battery Charger MH-24 (0 11): Recharge EN-EL14a and EN-EL14 batteries.
+•	Power Connector EP-5A, AC Adapter EH-5b: These accessories can be used to power the camera for extended periods (EH-5a and EH-5 AC adapters can also be used). A power connector EP-5A is required to connect the camera to the EH-5b, EH-5a, or EH-5.
+
+
+
+
+
+Filters	•	Filters intended for special-effects photography may interfere with autofocus or the electronic rangefinder.
+•	The D3300 can not be used with linear polarizing filters. Use C-PL or C-PL II circular polarizing filters instead.
+•	NC filters are recommended for protecting the lens.
+•	To prevent ghosting, use of a filter is not recommended when the subject is framed against a bright light, or when a bright light source is in the frame.
+•	Center-weighted metering is recommended with filters with exposure factors (filter factors) over 1 × (Y44, Y48, Y52, O56, R60, X0, X1, C-PL, ND2S, ND4, ND4S, ND8, ND8S, ND400, A2, A12, B2, B8, B12). See the filter manual for details.
+
+
+
+
+
+
+
+
+
+
+Viewfinder eyepiece accessories	•	DK-5 Eyepiece Cap: Prevents light entering via the viewfinder from appearing in the photograph or interfering with exposure.
+•	DK-20C Eyepiece Correction Lenses: Lenses are available with diopters of –5, –4, –3, –2, 0, +0.5, +1, +2, and +3 m–1 when the camera diopter adjustment control is in the neutral position (–1 m–1). Use eyepiece correction lenses only if the desired focus can not be achieved with the built in diopter adjustment control (–1.7 to +0.5 m–1). Test eyepiece correction lenses before purchase to ensure that the desired focus can be achieved. The rubber eyecup can not be used with eyepiece correction lenses.
+•	Magnifier DG-2: The DG-2 magnifies the scene displayed in the center of the viewfinder for greater precision during focusing. Eyepiece adapter required (available separately).
+•	Eyepiece Adapter DK-22: The DK-22 is used when attaching the DG-2 magnifier.
+•	Right-Angle Viewing Attachment DR-6: The DR-6 attaches at a right angle to the viewfinder eyepiece, allowing the image in the viewfinder to be viewed at right angles to the lens (for example, from directly above when the camera is horizontal).
+
+
+
+Software	•	Capture NX 2: A complete photo editing package offering such features as white balance adjustment and color control points.
+Note: Use the latest versions of Nikon software. Most Nikon software offers an auto update feature (Nikon Message Center 2) when the computer is connected to the Internet. See the websites listed on page xvi for the latest information on supported operating systems.
+
+
+
+Body cap	Body Cap BF-1B/Body Cap BF-1A: The body cap keeps the mirror, viewfinder screen, and image sensor free of dust when a lens is not in place.
+Accessory shoe covers	Accessory Shoe Cover BS-1: A cover protecting the accessory shoe. The accessory shoe is used for optional flash units.
+	•	Wireless Remote Control ML-L3 (0 6): The ML-L3 uses a 3 V CR2025 battery.
+
+
+Remote controls/ wireless remote controller	Pressing the battery-chamber latch to the right (q), insert a fingernail into the gap and open the battery chamber (w). Ensure that the battery is inserted in the correct orientation (r).
+•	Wireless Remote Controller WR-R10/WR-T10: When a WR-R10 wireless remote controller is attached, the camera can be controlled wirelessly using a WR-T10 wireless remote controller.
+•	Wireless Remote Controller WR-1: WR-1 units are used in groups of two or more, with one functioning as a transmitter and the remaining units acting as receivers. The receivers are attached to the accessory terminals of one or more cameras, allowing the transmitter to be used to release the camera shutters.
+
+Microphones	Stereo Microphone ME-1
+
+
+Accessory terminal accessories	The D3300 is equipped with an accessory terminal for WR-1 and WR-R10 wireless remote controllers (0 93), MC-DC2 remote cords, and GP-1/GP-1A GPS units, which connect with the 4 mark on the connector aligned with the 2
+next to the accessory terminal (close the connector cover when the terminal is not in use).
+
+
+USB and A/V connector accessories	•	UC-E17 and UC-E6 USB cables (0 85): The supplied
+UC-E17 cable is not available for separate purchase; purchase UC-E6 cables instead.
+•	EG-CP14 audio/video cables
+•	Wireless Mobile Adapter WU-1a: Supports two-way communication between the camera and smart devices running the Wireless Mobile Utility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Approved Memory Cards
+The following SD memory cards have been tested and approved for use in the D3300. Cards with class 6 or faster write speeds are recommended for movie recording. Recording may end unexpectedly when cards with slower write speeds are used.
+
+	SD memory
+cards
+SDHC memory cards 2	SDXC memory
+cards 3
+SanDisk
+
+
+2 GB 1	4 GB, 8 GB, 16 GB, 32 GB	64 GB
+Toshiba
+Panasonic		4 GB, 6 GB, 8 GB, 12 GB, 16 GB, 24 GB,
+32 GB	48 GB, 64 GB
+Lexar Media
+4 GB, 8 GB, 16 GB, 32 GB	—
+	Platinum II			64 GB
+	Professional			64 GB, 128 GB
+	Full-HD Video	—	4 GB, 8 GB, 16 GB	—
+1	Check that any card readers or other devices with which the card will be used support 2 GB cards.
+2	Check that any card readers or other devices with which the card will be used are SDHC- compliant. The camera supports UHS-I.
+3	Check that any card readers or other devices with which the card will be used are SDXC-compliant. The camera supports UHS-I.
+
+Other cards have not been tested. For more details on the above cards, please contact the manufacturer.
+
+ Caring for the Camera
+Storage
+When the camera will not be used for an extended period, remove the battery and store it in a cool, dry area with the terminal cover in place. To prevent mold or mildew, store the camera in a dry, well-ventilated area. Do not store your camera with naphtha or camphor moth balls or in locations that:
+•	are poorly ventilated or subject to humidities of over 60%
+•	are next to equipment that produces strong electromagnetic fields, such as televisions or radios
+•	are exposed to temperatures above 50 °C (122 °F) or below
+–10 °C (14 °F)
+Cleaning
+
+
+Camera body	Use a blower to remove dust and lint, then wipe gently with a soft, dry cloth. After using the camera at the beach or seaside, wipe off sand or salt with a cloth lightly dampened in distilled water and dry thoroughly. Important: Dust or other foreign matter inside the camera may cause damage not covered under warranty.
+
+Lens, mirror, and viewfinder	These glass elements are easily damaged. Remove dust and lint with a blower. If using an aerosol blower, keep the can vertical to prevent the discharge of liquid. To remove fingerprints and other stains, apply a small amount of lens cleaner to a soft cloth and clean with care.
+
+Monitor	Remove dust and lint with a blower. When removing fingerprints and other stains, wipe the surface lightly with a soft cloth or chamois leather. Do not apply pressure, as this could result in damage or malfunction.
+Do not use alcohol, thinner, or other volatile chemicals.
+
+
+Caring for the Camera
+Do not drop: The product may malfunction if subjected to strong shocks or vibration.
+Keep dry: This product is not waterproof, and may malfunction if immersed in water or exposed to high levels of humidity. Rusting of the internal mechanism can cause irreparable damage.
+Avoid sudden changes in temperature: Sudden changes in temperature, such as those that occur when entering or leaving a heated building on a cold day, can cause condensation inside the device. To prevent condensation, place the device in a carrying case or plastic bag before exposing it to sudden changes in temperature.
+Keep away from strong magnetic fields: Do not use or store this device in the vicinity of equipment that generates strong electromagnetic radiation or magnetic fields. Strong static charges or the magnetic fields produced by equipment such as radio transmitters could interfere with the monitor, damage data stored on the memory card, or affect the product’s internal circuitry.
+Do not leave the lens pointed at the sun: Do not leave the lens pointed at the sun or other strong light source for an extended period. Intense light may cause the image sensor to deteriorate or produce a white blur effect in photographs.
+Turn the product off before removing or disconnecting the power source: Do not unplug the product or remove the battery while the product is on or while images are being recorded or deleted. Forcibly cutting power in these circumstances could result in loss of data or in damage to product memory or internal circuitry. To prevent an accidental interruption of power, avoid carrying the product from one location to another while the AC adapter is connected.
+
+Cleaning: When cleaning the camera body, use a blower to gently remove dust and lint, then wipe gently with a soft, dry cloth. After using the camera at the beach or seaside, wipe off any sand or salt using a cloth lightly dampened in pure water and then dry the camera thoroughly.
+The lens and mirror are easily damaged. Dust and lint should be gently removed with a blower. When using an aerosol blower, keep the can vertical to prevent discharge of liquid. To remove fingerprints and other stains from the lens, apply a small amount of lens cleaner to a soft cloth and wipe the lens carefully.
+See the Reference Manual for information on cleaning the image sensor.
+Do not touch the shutter curtain: The shutter curtain is extremely thin and easily damaged. Under no circumstances should you exert pressure on the curtain, poke it with cleaning tools, or subject it to powerful air currents from a blower. These actions could scratch, deform, or tear the curtain.
+Storage: To prevent mold or mildew, store the camera in a dry, well- ventilated area. If you are using an AC adapter, unplug the adapter to prevent fire. If the product will not be used for an extended period, remove the battery to prevent leakage and store the camera in a plastic bag containing a desiccant. Do not, however, store the camera case in a plastic bag, as this may cause the material to deteriorate. Note that desiccant gradually loses its capacity to absorb moisture and should be replaced at regular intervals.
+To prevent mold or mildew, take the camera out of storage at least once a month. Turn the camera on and release the shutter a few times before putting it away.
+Store the battery in a cool, dry place. Replace the terminal cover before putting the battery away.
+
+Notes on the monitor: The monitor is constructed with extremely high precision; at least 99.99% of pixels are effective, with no more than 0.01% being missing or defective. Hence while these displays may contain pixels that are always lit (white, red, blue, or green) or always off (black), this is not a malfunction and has no effect on images recorded with the device.
+Images in the monitor may be difficult to see in a bright light.
+Do not apply pressure to the monitor, as this could cause damage or malfunction. Dust or lint on the monitor can be removed with a blower. Stains can be removed by wiping lightly with a soft cloth or chamois leather. Should the monitor break, care should be taken to avoid injury from broken glass and to prevent liquid crystal from the monitor touching the skin or entering the eyes and mouth.
+Moiré: Moiré is an interference pattern created by the interaction of an image containing a regular, repeating grid, such as the pattern of weave in cloth or windows in a building, with the camera image sensor grid. If you notice moiré in your photographs, try changing the distance to the subject, zooming in and out, or changing the angle between the subject and the camera.
+
+
+
+
+
+
+
+
+Caring for the Battery
+Batteries may leak or explode if improperly handled. Observe the following precautions when handling batteries:
+•	Use only batteries approved for use in this equipment.
+•	Do not expose the battery to flame or excessive heat.
+•	Keep the battery terminals clean.
+•	Turn the product off before replacing the battery.
+•	Remove the battery from the camera or charger when not in use and replace the terminal cover. These devices draw minute amounts of charge even when off and could draw the battery down to the point that it will no longer function. If the battery will not be used for some time, insert it in the camera and run it flat before removing it and storing it in a location with an ambient temperature of 15 °C to 25 °C (59 °F to 77 °F; avoid hot or extremely cold locations). Repeat this process at least once every six months.
+•	Turning the camera on and off repeatedly when the battery is fully discharged will shorten battery life. Batteries that have been fully discharged must be charged before use.
+•	The internal temperature of the battery may rise while the battery is in use. Attempting to charge the battery while the internal temperature is elevated will impair battery performance, and the battery may not charge or charge only partially. Wait for the battery to cool before charging.
+•	Continuing to charge the battery after it is fully charged can impair battery performance.
+
+•	A marked drop in the time a fully charged battery retains its charge when used at room temperature indicates that it requires replacement. Purchase a new EN-EL14a battery.
+•	Charge the battery before use. When taking photographs on important occasions, ready a spare EN-EL14a battery and keep it fully charged. Depending on your location, it may be difficult to purchase replacement batteries on short notice. Note that on cold days, the capacity of batteries tends to decrease. Be sure the battery is fully charged before taking photographs outside in cold weather. Keep a spare battery in a warm place and exchange the two as necessary. Once warmed, a cold battery may recover some of its charge.
+•	Used batteries are a valuable resource; recycle in accord with local regulations.
+
+ Error Messages
+This section lists the indicators and error messages that appear in the viewfinder and monitor.
+
+Indicator
+Solution
+Monitor	Viewfinder
+Lock lens aperture ring
+at minimum aperture (largest f/-number).	B
+(flashes)	Set lens aperture ring to minimum aperture (highest f-number).
+
+Lens not attached	F/s
+(flashes)	•	Attach non-IX NIKKOR lens.
+•	If non-CPU lens is attached, select mode M.
+
+Before taking photos, rotate the zoom ring to extend the lens.
+F
+(flashes)	A lens with a retractable lens barrel
+button is attached with the lens barrel retracted. Press the retractable lens barrel button and rotate the zoom ring to extend the lens.
+Shutter release
+disabled. Recharge battery.	d/s
+(flashes)	Turn camera off and recharge or replace battery.
+This battery cannot be
+used. Choose battery designated for use in this camera.
+d
+(flashes)
+Use Nikon-approved battery.
+
+Indicator
+Solution
+Monitor	Viewfinder
+Initialization error.
+Turn camera off and then on again.	d/
+k
+(flashes)	Turn camera off, remove and replace battery, and then turn camera on again.
+Battery level is low.
+Complete operation and turn camera off immediately.
+—
+End cleaning and turn camera off and recharge or replace battery.
+Clock not set	—	Set camera clock.
+No memory card
+inserted	S/s
+(flashes)	Turn camera off and confirm that card is
+correctly inserted.
+Memory card is locked.
+Slide lock to “write” position.	(
+(flashes)	Memory card is locked (write protected).
+Slide card write-protect switch to “write” position.
+
+This memory card cannot be used. Card may be damaged. Insert another card.
+
+(/k
+(flashes)	•	Use approved card.
+•	Format card. If problem persists, card may be damaged. Contact Nikon- authorized service representative.
+•	Error creating new folder. Delete files or insert new memory card.
+•	Insert new memory card.
+This card is not
+formatted. Format the card.	T
+(flashes)	Format card or turn camera off and insert new memory card.
+
+Card is full	j/A/s
+(flashes)	•	Reduce quality or size.
+•	Delete photographs.
+•	Insert new memory card.
+—	
+(flashes)	Camera can not focus using autofocus.
+Change composition or focus manually.
+
+Indicator
+Solution
+Monitor	Viewfinder
+
+
+
+Subject is too bright
+
+
+
+
+
+s
+(flashes)	•	Use a lower ISO sensitivity.
+•	Use commercial ND filter.
+•	In mode:
+S Increase shutter speed
+A Choose a smaller aperture (higher f-number)
+% Choose another shooting mode
+
+
+Subject is too dark		•	Use a higher ISO sensitivity.
+•	Use flash.
+•	In mode:
+S Lower shutter speed
+A Choose a larger aperture (lower f-number)
+No “Bulb” in S mode	A
+(flashes)
+Change shutter speed or select mode M.
+No “Time” in S mode	&
+(flashes)
+Press the live-view
+button when you are ready to start a panorama.	q (flashes)/ B
+Press the a button to start live view before recording a panorama.
+Cannot shoot panorama with lens of this focal length.
+—	Use a lens with a focal length of 55 mm
+or less to shoot panoramas. If you are using a zoom lens, choose a focal length of 55 mm or less.
+
+—	N
+(flashes)	Flash has fired at full power. Check
+photo in monitor; if underexposed, adjust settings and try again.
+
+Indicator
+Solution
+Monitor	Viewfinder
+
+
+—
+N/s
+(flashes)	•	Use the flash.
+•	Change distance to subject, aperture, flash range, or ISO sensitivity.
+•	Lens focal length is less than 18 mm: use a longer focal length.
+Error. Press shutter release button again.
+
+O
+(flashes)	Release shutter. If error persists or
+appears frequently, consult Nikon- authorized service representative.
+Start-up error. Contact
+a Nikon-authorized service  representative.
+Consult Nikon-authorized service representative.
+Metering error
+Unable to start live
+view.
+Please wait for camera to cool.
+—	Wait for the internal circuits to cool before resuming live view or movie recording.
+
+
+Folder contains no images.
+
+
+—	Folder selected for playback contains no
+images (note that this message will be displayed if memory card is inserted after Current is selected for Playback folder in playback menu and playback started before any pictures are taken). Insert another memory card or select All for Playback folder.
+Cannot display this file.	—	File can not be played back on camera.
+Cannot select this file.	—	Images created with other devices can
+not be retouched.
+
+ Specifications
+❚❚ Nikon D3300 Digital Camera
+
+Type
+Type	Single-lens reflex digital camera
+Lens mount	Nikon F mount (with AF contacts)
+Effective angle of view	Nikon DX format; focal length equivalent to
+approx. 1.5× that of lenses with FX format angle of view
+Effective pixels
+ Effective pixels	24.2 million
+Image sensor
+Image sensor	23.5 × 15.6 mm CMOS sensor
+Total pixels	24.78 million
+Dust-reduction System	Image sensor cleaning, Image Dust Off reference
+data (optional Capture NX 2 software required)
+Storage
+Image size (pixels)	•	I (easy panorama) mode:
+-	Normal, horizontal pan: 4800 × 1080
+-	Normal, vertical pan: 1632 × 4800
+-	Wide, horizontal pan: 9600 × 1080
+-	Wide, vertical pan: 1632 × 9600
+•	Other modes:
+- 6000 × 4000 (Large)
+- 4496 × 3000 (Medium)
+- 2992 × 2000 (Small)
+File format	•	NEF (RAW): 12 bit, compressed
+•	JPEG: JPEG-Baseline compliant with fine (approx. 1 : 4), normal (approx. 1 : 8), or basic (approx.
+1: 16) compression
+•	NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats
+
+Storage
+Picture Control System	Standard, Neutral, Vivid, Monochrome, Portrait,
+Landscape; selected Picture Control can be modified
+Media	SD (Secure Digital) and UHS-I compliant SDHC
+and SDXC memory cards
+File system	DCF 2.0, DPOF, Exif 2.3, PictBridge
+Viewfinder
+Viewfinder	Eye-level pentamirror single-lens reflex
+viewfinder
+Frame coverage	Approx. 95% horizontal and 95% vertical
+Magnification	Approx. 0.85 × (50 mm f/1.4 lens at infinity,
+–1.0 m–1)
+Eyepoint	18 mm (–1.0 m–1; from center surface of
+viewfinder eyepiece lens)
+Diopter adjustment	–1.7–+0.5 m–1
+Focusing screen	Type B BriteView Clear Matte Mark VII screen
+Reflex mirror	Quick return
+Lens aperture	Instant return, electronically controlled
+Lens
+Compatible lenses	Autofocus is available with AF-S, AF-P, and AF-I
+lenses. Autofocus is not available with other type G and D lenses, AF lenses (IX NIKKOR and lenses for the F3AF are not supported), and AI-P lenses. Non-CPU lenses can be used in mode M, but the camera exposure meter will not function.
+The electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster.
+
+Shutter
+Type	Electronically-controlled vertical-travel focal-
+plane shutter
+Speed	1/4000 – 30 s in steps of 1/3 EV; Bulb; Time
+Flash sync speed	X=1/200 s; synchronizes with shutter at 1/200 s or
+slower
+Release
+Release mode	8 (single frame), I (continuous), J (quiet
+shutter release), E (self-timer), " (delayed remote; ML-L3), # (quick-response remote; ML-L3)
+Frame advance rate	Up to 5 fps
+Note: Frame rates assume manual focus, manual or shutter-priority auto exposure, a shutter speed of 1/250 s or faster, and other settings at default values.
+Self-timer	2 s, 5 s, 10 s, 20 s; 1–9 exposures
+Exposure
+Metering mode	TTL exposure metering using 420-pixel RGB
+sensor
+Metering method	•	Matrix metering: 3D color matrix metering II (type
+G, E, and D lenses); color matrix metering II (other CPU lenses)
+•	Center-weighted metering: Weight of 75% given to 8-mm circle in center of frame
+•	Spot metering: Meters 3.5-mm circle (about 2.5%
+of frame) centered on selected focus point
+Range (ISO 100, f/1.4
+lens, 20 °C/68 °F)	•	Matrix or center-weighted metering: 0– 20 EV
+•	Spot metering: 2– 20 EV
+Exposure meter
+coupling	CPU
+
+Exposure
+Mode	Auto modes (i auto; j auto, flash off);
+programmed auto with flexible program (P); shutter-priority auto (S); aperture-priority auto (A); manual (M); scene modes (k portrait;
+l landscape; p child; m sports; n close up;
+o night portrait); special effects modes (% night vision; S super vivid; T pop; U photo illustration; g color sketch; ' toy camera effect; ( miniature effect; 3 selective color; 1 silhouette; 2 high key; 3 low key; ) HDR painting; I easy panorama)
+Exposure compensation	Can be adjusted by –5 – +5 EV in increments of
+1/3 EV in P, S, A, and M modes
+Exposure lock	Luminosity locked at detected value with A (L)
+button
+ISO sensitivity
+(Recommended Exposure Index)	ISO 100 – 12800 in steps of 1 EV. Can also be set to
+approx. 1 EV (ISO 25600 equivalent) above ISO 12800; auto ISO sensitivity control available
+Active D-Lighting	On, off
+Focus
+Autofocus	Nikon Multi-CAM 1000 autofocus sensor module
+with TTL phase detection, 11 focus points (including one cross-type sensor), and AF-assist illuminator (range approx. 0.5– 3 m/1 ft 8 in.– 9 ft
+10 in.)
+Detection range	–1 – +19 EV (ISO 100, 20 °C/68 °F)
+
+Focus
+Lens servo	•	Autofocus (AF): Single-servo AF (AF-S); continuous-
+servo AF (AF-C); auto AF-S/AF-C selection (AF-A); predictive focus tracking activated automatically according to subject status
+•	Manual focus (MF): Electronic rangefinder can be
+used
+Focus point	Can be selected from 11 focus points
+AF-area mode	Single-point AF, dynamic-area AF, auto-area AF,
+3D-tracking (11 points)
+Focus lock	Focus can be locked by pressing shutter-release
+button halfway (single-servo AF) or by pressing
+A (L) button
+Flash
+Built-in flash	i, k, p, n, o, S, T, U, g, ' : Auto flash with
+auto pop-up
+P, S, A, M: Manual pop-up with button release
+Guide Number	Approx. 12/39, 12/39 with manual flash (m/ft, ISO
+100, 20 °C/68 °F)
+Flash control	TTL: i-TTL flash control using 420-pixel RGB sensor
+is available with built-in flash and SB-910, SB-900, SB-800, SB-700, SB-600, SB-400, or SB-300; i-TTL
+balanced fill-flash for digital SLR is used with
+matrix and center-weighted metering, standard i-TTL flash for digital SLR with spot metering
+Flash mode	Auto, auto with red-eye reduction, auto slow sync,
+auto slow sync with red-eye reduction, fill-flash, red-eye reduction, slow sync, slow sync with red- eye reduction, rear-curtain with slow sync, rear- curtain sync, off
+
+Flash
+Flash compensation	–3 – +1 EV in increments of 1/3 EV
+Flash-ready indicator	Lights when built-in flash or optional flash unit is
+fully charged; flashes after flash is fired at full output
+Accessory shoe	ISO 518 hot-shoe with sync and data contacts and
+safety lock
+Nikon Creative Lighting
+System (CLS)	Advanced Wireless Lighting supported with
+SB-910, SB-900, SB-800, or SB-700 as a master
+flash or SU-800 as commander; Flash Color Information Communication supported with all CLS-compatible flash units
+Sync terminal	AS-15 sync terminal adapter (available separately)
+White balance
+White balance	Auto, incandescent, fluorescent (7 types), direct
+sunlight, flash, cloudy, shade, preset manual, all except preset manual with fine-tuning
+Live view
+Lens servo	•	Autofocus (AF): Single-servo AF (AF-S); full-time-
+servo AF (AF-F)
+•	Manual focus (MF)
+AF-area mode	Face-priority AF, wide-area AF, normal-area AF,
+subject-tracking AF
+Autofocus	Contrast-detect AF anywhere in frame (camera
+selects focus point automatically when face- priority AF or subject-tracking AF is selected)
+Automatic scene
+selection	Available in i and j modes
+
+Movie
+Metering	TTL exposure metering using main image sensor
+Metering method	Matrix
+Frame size (pixels) and
+frame rate	•	1920 × 1080, 60p (progressive)/50p/30p/25p/
+24p,  high/normal
+•	1280 × 720, 60p/50p,  high/normal
+•	640 × 424, 30p/25p,  high/normal
+Frame rates of 30p (actual frame rate 29.97 fps) and 60p (actual frame rate 59.94 fps) are available when NTSC is selected for video mode. 25p and 50p are available when PAL is selected for video mode. Actual frame rate when 24p is selected is 23.976 fps.
+File format	MOV
+Video compression	H.264/MPEG-4 Advanced Video Coding
+Audio recording format	Linear PCM
+Audio recording device	Built-in monaural or external stereo microphone;
+sensitivity adjustable
+ISO sensitivity	ISO 100–12800; can also be set to approx. 1 EV
+(ISO 25600 equivalent) above ISO 12800
+Monitor
+Monitor	7.5-cm (3-in.), approx. 921k-dot (VGA) TFT LCD
+with 170 ° viewing angle, approx. 100% frame coverage, and brightness adjustment
+Playback
+Playback	Full-frame and thumbnail (4, 9, or 72 images or
+calendar) playback with playback zoom, movie and panorama playback, photo and/or movie slide shows, histogram display, highlights, auto image rotation, picture rating, and image comment (up to 36 characters)
+
+Interface
+USB	Hi-Speed USB
+Video output	NTSC, PAL
+HDMI output	Type C mini-pin HDMI connector
+Accessory terminal	Wireless remote controllers: WR-1, WR-R10 (available
+separately)
+Remote cords: MC-DC2 (available separately)
+GPS units: GP-1/GP-1A (available separately)
+Audio input	Stereo mini-pin jack (3.5mm diameter); supports
+optional ME-1 stereo microphones
+Supported languages
+Supported languages	Arabic, Bengali, Bulgarian, Chinese (Simplified
+and Traditional), Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Persian, Polish, Portuguese (Portugal and Brazil), Romanian, Russian, Serbian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Vietnamese
+Power source
+Battery	One rechargeable Li-ion EN-EL14a battery
+AC adapter	EH-5b AC adapter; requires EP-5A power
+connector (available separately)
+Tripod socket
+Tripod socket	1/4 in. (ISO 1222)
+
+Dimensions/weight
+Dimensions (W × H × D)	Approx. 124 × 98 × 75.5 mm (4.9 × 3.9 × 3 in.)
+Weight	Approx. 460 g (1 lb 0.2 oz) with battery and
+memory card but without body cap; approx. 410 g/14.5 oz (camera body only)
+Operating environment
+Temperature	0 °C–40 °C (+32 °F–104 °F)
+Humidity	85% or less (no condensation)
+•	Unless otherwise stated, all measurements are performed in conformity with Camera and
+Imaging Products Association (CIPA) standards or guidelines.
+•	All figures are for a camera with a fully-charged battery.
+•	Nikon reserves the right to change the appearance and specifications of the hardware and software described in this manual at any time and without prior notice. Nikon will not be held liable for damages that may result from any mistakes that this manual may contain.
+
+❚❚ MH-24 Battery Charger
+
+Rated input	AC 100–240 V, 50/60 Hz, 0.2 A maximum
+Rated output	DC 8.4 V/0.9 A
+Supported batteries	Nikon Rechargeable Li-ion Battery EN-EL14a
+Charging time	Approx. 1 hour and 50 minutes at an ambient
+temperature of 25 °C/77 °F when no charge remains
+Operating temperature	0 °C–40 °C (+32 °F–104 °F)
+Dimensions (W × H × D)	Approx. 70 × 26 × 97 mm (2.8 × 1.0 × 3.8 in.),
+excluding plug adapter
+Weight	Approx. 96 g (3.4 oz), excluding plug adapter
+❚❚ EN-EL14a Rechargeable Li-ion Battery
+Type	Rechargeable lithium-ion battery
+Rated capacity	7.2 V/1230 mAh
+Operating temperature	0°C–40 °C (+32 °F–104 °F)
+Dimensions (W × H × D)	Approx. 38 × 53 × 14 mm (1.5 × 2.1 × 0.6 in.)
+Weight	Approx. 49 g (1.7 oz), excluding terminal cover
+
+❚❚ AF-P DX NIKKOR 18–55mm f/3.5–5.6G VR and AF-P DX NIKKOR
+18–55mm f/3.5–5.6G Lenses
+
+Type	Type G AF-P DX lens with built-in CPU and F mount
+Focal length	18–55 mm
+Maximum aperture	f/3.5–5.6
+Lens construction	12 elements in 9 groups (2 aspherical lens
+elements)
+Angle of view	76° – 28° 50´
+Focal length scale	Graduated in millimeters (18, 24, 35, 45, 55)
+Distance information	Output to camera
+Zoom	Manual zoom using independent zoom ring
+Focusing	Autofocus controlled by stepping motor; separate
+focus ring for manual focus
+Vibration reduction
+(AF-P DX NIKKOR 18–55mm f/3.5–5.6G
+VR only)	Lens shift using voice coil motors (VCMs)
+Minimum focus distance	0.25 m (0.9 ft) from focal plane at all zoom
+positions
+Diaphragm blades	7 (rounded diaphragm opening)
+Diaphragm	Fully automatic
+Aperture range	•	18 mm focal length: f/3.5–22
+•	55 mm focal length: f/5.6–38
+The minimum aperture displayed may vary depending on the size of the exposure increment selected with the camera.
+Metering	Full aperture
+Filter-attachment size	55 mm (P = 0.75 mm)
+Dimensions	Approx. 64.5 mm maximum diameter × 62.5 mm
+(distance from camera lens mount flange)
+Weight	•	AF-P DX NIKKOR 18–55mm f/3.5–5.6G VR: Approx.
+205 g (7.3 oz)
+•	AF-P DX NIKKOR 18–55mm f/3.5–5.6G: Approx. 195 g (6.9 oz)
+
+❚❚ AF-S DX NIKKOR 18–55mm f/3.5–5.6G VR II Lens
+
+Type	Type G AF-S DX lens with built-in CPU and F
+mount
+Focal length	18–55 mm
+Maximum aperture	f/3.5–5.6
+Lens construction	11 elements in 8 groups (including 1 aspherical
+lens element)
+Angle of view	76 °– 28 ° 50 ´
+Focal length scale	Graduated in millimeters (18, 24, 35, 45, 55)
+Distance information	Output to camera
+Zoom	Manual zoom using independent zoom ring
+Focusing	Autofocus controlled by Silent Wave Motor and
+separate focus ring for manual focus
+Vibration reduction	Lens shift using voice coil motors (VCMs)
+Minimum focus distance	•	AF: 0.28 m (0.92 ft) from focal plane at all zoom
+positions
+•	MF: 0.25 m (0.82 ft) from focal plane at all zoom positions
+Diaphragm blades	7 (rounded diaphragm opening)
+Diaphragm	Fully automatic
+Aperture range	•	18 mm focal length: f/3.5–22
+•	55 mm focal length: f/5.6–38
+The minimum aperture displayed may vary depending on the size of the exposure increment selected with the camera.
+Metering	Full aperture
+Filter-attachment size	52 mm (P=0.75 mm)
+Dimensions	Approx. 66 mm diameter × 59.5 mm (distance
+from camera lens-mount flange when lens is retracted)
+Weight	Approx. 195 g (6.9 oz)
+Nikon reserves the right to change the appearance and specifications of the hardware and software described in this manual at any time and without prior notice. Nikon will not be held liable for damages that may result from any mistakes that this manual may contain.
+
+
+
+
+
+A Trademark Information
+IOS is a trademark or registered trademark of Cisco Systems, Inc., in the United States and/or other countries and is used under license. Mac OS and OS X are registered trademarks of Apple Inc. in the United States and/or other countries. Microsoft, Windows, and Windows Vista are either registered trademarks, or trademarks of Microsoft Corporation in the United States and/or other countries. PictBridge logo is a trademark. The SD, SDHC, and SDXC logos are trademarks of the SD- 3C, LLC. HDMI, the HDMI logo and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing LLC.
+
+All other trade names mentioned in this manual or the other documentation provided with your Nikon product are trademarks or registered trademarks of their respective holders.
+A FreeType License (FreeType2)
+Portions of this software are copyright © 2014 The FreeType Project (http://www.freetype.org). All rights reserved.
+A MIT License (HarfBuzz)
+Portions of this software are copyright © 2014 The HarfBuzz Project (http://www.freedesktop.org/wiki/Software/HarfBuzz). All rights reserved.
+
+ Battery Life
+The movie footage or number of shots that can be recorded with fully-charged batteries varies with the condition of the battery, temperature, the interval between shots, and the length of time menus are displayed. Sample figures for EN-EL14a (1230 mAh) batteries are given below.
+•	Photographs, single-frame release mode (CIPA standard 1): Approximately 700 shots
+•	Photographs, continuous release mode (Nikon standard 2): Approximately 2500 shots
+•	Movies: Approximately 55 minutes at 1080/60p and 1080/50p 3
+1	Measured at 23 °C/73.4 °F (±2 °C/3.6 °F) with an AF-S DX NIKKOR 18–55mm f/3.5–5.6G VR II lens under the following test conditions: lens cycled from infinity to minimum range and one photograph taken at default settings once every 30 s; after photograph is taken, monitor is turned on for 4 s; tester waits for standby timer to expire after monitor is turned off; flash fired at full power once every other shot. Live view not used.
+2	Measured at 20 °C/68 °F with an AF-S DX NIKKOR 18–55mm f/3.5–5.6G VR II lens under the following test conditions: vibration reduction off, continuous release mode, focus mode set to AF-C, image quality set to JPEG basic, image size set to M (medium), white balance set to v, ISO sensitivity set to ISO 100, shutter speed 1/250 s, focus cycled from infinity to minimum range three times after shutter-release button has been pressed halfway for 3 s; six shots are then taken in succession and monitor turned on for 4 s and then turned off; cycle repeated once standby timer has expired.
+3	Measured at 23°C/73.4°F (±2°C/3.6°F) with the camera at default settings and an AF-S DX NIKKOR 18–55mm f/3.5–5.6G VR II lens under conditions specified by the Camera and Imaging Products Association (CIPA). Individual movies can be up to 20 minutes in length or 4 GB in size; recording may end before these limits are reached if the camera temperature rises.
+
+The following can reduce battery life:
+•	Using the monitor
+•	Keeping the shutter-release button pressed halfway
+•	Repeated autofocus operations
+•	Taking NEF (RAW) photographs
+•	Slow shutter speeds
+•	Using a GP-1or GP-1A GPS unit
+•	Using an Eye-Fi card
+•	Using a WU-1a wireless mobile adapter
+•	Using VR (vibration reduction) mode with VR lenses
+•	Repeatedly zooming in and out with an AF-P lens.
+To ensure that you get the most from rechargeable Nikon EN-EL14a batteries:
+•	Keep the battery contacts clean. Soiled contacts can reduce battery performance.
+•	Use batteries immediately after charging. Batteries will lose their charge if left unused.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nikon User Support for India and Australia
+Contact a Nikon representative for technical assistance with the operation of your Nikon product or products. For information on the Nikon representatives in your area, visit http://www.nikon-asia.com/support.
+
+
